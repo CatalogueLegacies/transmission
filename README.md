@@ -4,7 +4,7 @@ This repository hosts code for the project '[Legacies of Catalogue Descriptions 
 
 ## Reuse
 
-This repo contains bibliographic metadata from the Yale University Library made available under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). Details of Yale University Library's Open Metadata Service is available on the [Yale University Library website](https://guides.library.yale.edu/c.php?g=923429). In recognition of their support in the preparation and publication of this data we thank [Ellen Cordes](https://walpole.library.yale.edu/people/ellen-cordes), [Daniel Lovins](https://web.library.yale.edu/sd/staff/45953), and [Yukari Sugiyama](https://github.com/ysugiyama3).
+This repository contains bibliographic metadata from the Yale University Library made available under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/). Details of Yale University Library's Open Metadata Service is available on the [Yale University Library website](https://guides.library.yale.edu/c.php?g=923429). In recognition of their support in the preparation and publication of this data we thank [Ellen Cordes](https://walpole.library.yale.edu/people/ellen-cordes), [Daniel Lovins](https://web.library.yale.edu/sd/staff/45953), and [Yukari Sugiyama](https://github.com/ysugiyama3).
 
 Unless otherwise stated, code is licensed under a [GNU General Public License v3.0](https://github.com/CatalogueLegacies/transmission/blob/master/LICENSE).
 
