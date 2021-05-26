@@ -1,0 +1,1949 @@
+
+
+
+tag = "500",  frequency = 54712
+Average number of words, ignoring <>'s (mean, median, mode) = 12.01, 8.0, 4
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Place and date of publication from British Museum catalogue.</marc:subfield>
+<marc:subfield code="a">Plate from: The Butiad, or, Political register ... London : Printed for E. Sumpter, 1763.</marc:subfield>
+<marc:subfield code="a">Date based on death date of Thomas Kirgate, who likely assembled the extra-illustrated volume in which this drawing is found.</marc:subfield>
+<marc:subfield code="a">Title from heading above image.</marc:subfield>
+<marc:subfield code="a">Probably from: A series of original portraits and caricature etchings by the late John Kay (1842).</marc:subfield>
+<marc:subfield code="a">Caption below left panel: Rambling in a wood enjoying the beauties of retired nature!</marc:subfield>
+<marc:subfield code="a">Printseller's announcement following publication statement: Election caricatures executed for gentlemen in 3 hours.</marc:subfield>
+<marc:subfield code="a">Formerly mounted on leaf 47 in an album assembled by Horace Walpole: Drawings and designs by Richd. Bentley ... [Strawberry Hill], [ca. 1760].</marc:subfield>
+<marc:subfield code="a">Artist's attribution 'Opie' is a pseudonym used by Thomas Rowlandson. See George.</marc:subfield>
+<marc:subfield code="a">Title etched below image.</marc:subfield>
+<marc:subfield code="a">Title etched above image.</marc:subfield>
+<marc:subfield code="a">Printmaker from British Museum catalogue.</marc:subfield>
+<marc:subfield code="a">Year &quot;1735&quot; at end of artist's signature later changed to &quot;1744&quot; on plate. For the later state with altered date, see Lewis Walpole Library call no.: 33 30 Copy 4.</marc:subfield>
+<marc:subfield code="a">Six lines of verse below image: If these hirelings must judge and judge by their own laws, let them find themselves quarters, a very just cause ...</marc:subfield>
+<marc:subfield code="a">Not in the Catalogue of prints and drawings in the British Museum. Division I, political and personal satires.</marc:subfield>
+<marc:subfield code="a">A copy of print no. 169 of the illustrations to: Political and satirical history.</marc:subfield>
+<marc:subfield code="a">Title from item.</marc:subfield>
+<marc:subfield code="a">Title etched below image.</marc:subfield>
+<marc:subfield code="a">Title from words engraved in image.</marc:subfield>
+<marc:subfield code="a">Gilt-metal mount within black papier-mache frame.</marc:subfield>
+
+
+
+tag = "655",  frequency = 43661
+Average number of words, ignoring <>'s (mean, median, mode) = 4.9, 5, 5
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Etchings</marc:subfield><marc:subfield code="z">England</marc:subfield><marc:subfield code="z">London</marc:subfield><marc:subfield code="y">1818.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Views.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Aquatints</marc:subfield><marc:subfield code="z">England</marc:subfield><marc:subfield code="z">London</marc:subfield><marc:subfield code="y">1821.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Etchings</marc:subfield><marc:subfield code="z">Scotland</marc:subfield><marc:subfield code="z">Edinburgh</marc:subfield><marc:subfield code="y">1877.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Etchings</marc:subfield><marc:subfield code="z">England</marc:subfield><marc:subfield code="z">London</marc:subfield><marc:subfield code="y">1802.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Etchings</marc:subfield><marc:subfield code="z">England</marc:subfield><marc:subfield code="y">1780.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Etchings</marc:subfield><marc:subfield code="z">England</marc:subfield><marc:subfield code="z">London</marc:subfield><marc:subfield code="y">1814.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Book illustrations.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Satires (Visual works)</marc:subfield><marc:subfield code="z">England</marc:subfield><marc:subfield code="y">1787.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Proofs.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Portrait prints.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Satires (Visual works)</marc:subfield><marc:subfield code="z">England</marc:subfield><marc:subfield code="y">1808.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Etchings</marc:subfield><marc:subfield code="z">England</marc:subfield><marc:subfield code="z">London</marc:subfield><marc:subfield code="y">1792.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Watermarks (Paper)</marc:subfield><marc:subfield code="x">J Whatman</marc:subfield><marc:subfield code="y">1794.</marc:subfield><marc:subfield code="2">rbpap</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Satires (Visual works)</marc:subfield><marc:subfield code="z">England</marc:subfield><marc:subfield code="y">1790.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Satires (Visual works)</marc:subfield><marc:subfield code="z">England</marc:subfield><marc:subfield code="y">1786.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Proofs.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Ephemera.</marc:subfield><marc:subfield code="2">rbgenr</marc:subfield>
+<marc:subfield code="a">Satires (Visual works)</marc:subfield><marc:subfield code="z">England</marc:subfield><marc:subfield code="y">1786.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+<marc:subfield code="a">Satires (Visual works)</marc:subfield><marc:subfield code="z">England</marc:subfield><marc:subfield code="y">1793.</marc:subfield><marc:subfield code="2">gmgpc</marc:subfield>
+
+
+
+tag = "650",  frequency = 24522
+Average number of words, ignoring <>'s (mean, median, mode) = 2.82, 2.0, 2
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">School children.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Rake's progress.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Hairstyles.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Cityscapes.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Clothing &amp; dress</marc:subfield><marc:subfield code="y">1780.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Stocks (Punishment)</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Cats.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Draperies.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Floor coverings.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Interiors.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Butterflies.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Nobility</marc:subfield><marc:subfield code="z">Great Britain</marc:subfield><marc:subfield code="v">Early works to 1800.</marc:subfield>
+<marc:subfield code="a">Mortarboards (Caps)</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Parables.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Rivers.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Cavalry.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Taverns (Inns)</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Longcase clocks.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Podiums.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+<marc:subfield code="a">Wigs.</marc:subfield><marc:subfield code="2">lctgm</marc:subfield>
+
+
+
+tag = "035",  frequency = 19327
+Average number of words, ignoring <>'s (mean, median, mode) = 1, 1, 1
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">(OCoLC)ocn702058474</marc:subfield>
+<marc:subfield code="a">(OCoLC)ocn702061379</marc:subfield>
+<marc:subfield code="a">(OCoLC)ocn702044963</marc:subfield>
+<marc:subfield code="a">8330191</marc:subfield>
+<marc:subfield code="a">8132302</marc:subfield>
+<marc:subfield code="a">(OCoLC)ocn689219092</marc:subfield>
+<marc:subfield code="a">9170855</marc:subfield>
+<marc:subfield code="a">(OCoLC)ocn702059542</marc:subfield>
+<marc:subfield code="a">9959097</marc:subfield>
+<marc:subfield code="a">12697981</marc:subfield>
+<marc:subfield code="a">11336506</marc:subfield>
+<marc:subfield code="a">6639189</marc:subfield>
+<marc:subfield code="a">(OCoLC)ocn702047698</marc:subfield>
+<marc:subfield code="a">(OCoLC)ocn702051730</marc:subfield>
+<marc:subfield code="a">7669879</marc:subfield>
+<marc:subfield code="a">(OCoLC)ocn880583150</marc:subfield>
+<marc:subfield code="a">(OCoLC)ocn689027572</marc:subfield>
+<marc:subfield code="a">(OCoLC)ocn702062049</marc:subfield>
+<marc:subfield code="a">(OCoLC)ocn702073030</marc:subfield>
+<marc:subfield code="a">(OCoLC)ocn702042772</marc:subfield>
+
+
+
+tag = "300",  frequency = 16695
+Average number of words, ignoring <>'s (mean, median, mode) = 17.86, 19, 13
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">1 print :</marc:subfield><marc:subfield code="b">etching with engraving on laid paper ;</marc:subfield><marc:subfield code="c">plate mark 11.2 x 15.7 cm, on sheet 13 x 22 cm</marc:subfield>
+<marc:subfield code="a">1 print :</marc:subfield><marc:subfield code="b">etching on wove paper, hand-colored ;</marc:subfield><marc:subfield code="c">plate mark 15.3 x 19 cm, on sheet 19 x 23 cm.</marc:subfield>
+<marc:subfield code="a">1 print :</marc:subfield><marc:subfield code="b">engraving on wove paper ;</marc:subfield><marc:subfield code="c">plate mark 163 x 201 mm, on sheet 232 x 289 mm.</marc:subfield>
+<marc:subfield code="a">1 drawing :</marc:subfield><marc:subfield code="b">watercolor, crayon &amp; pencil on wove paper ;</marc:subfield><marc:subfield code="c">sheet 23.6 x 19 cm</marc:subfield>
+<marc:subfield code="a">1 print :</marc:subfield><marc:subfield code="b">engraving on laid paper ;</marc:subfield><marc:subfield code="c">sheet 8.3 x 5.9 cm</marc:subfield>
+<marc:subfield code="a">1 print :</marc:subfield><marc:subfield code="b">etching on laid paper, hand-colored ;</marc:subfield><marc:subfield code="c">sheet 25.7 x 33 cm</marc:subfield>
+<marc:subfield code="a">1 print :</marc:subfield><marc:subfield code="b">etching and stipple engraving on wove paper, hand-colored ;</marc:subfield><marc:subfield code="c">plate mark 16.3 x 21 cm, on sheet 19.3 x 25.8 cm</marc:subfield>
+<marc:subfield code="a">1 print on wove paper :</marc:subfield><marc:subfield code="b">etching, hand-colored ;</marc:subfield><marc:subfield code="c">sheet 30 x 45 cm.</marc:subfield>
+<marc:subfield code="a">1 painting :</marc:subfield><marc:subfield code="b">oil on canvas ;</marc:subfield><marc:subfield code="c">visible image 25 x 20 in.</marc:subfield>
+<marc:subfield code="a">2 drawings :</marc:subfield><marc:subfield code="b">watercolor on laid paper, mounted on blue laid paper ;</marc:subfield><marc:subfield code="c">sheet 10.2 x 13.2 cm and sheet 10.2 x 15.4 cm, mounted to 28 x 22 cm</marc:subfield>
+<marc:subfield code="a">1 print :</marc:subfield><marc:subfield code="b">etching with aquatint on wove paper, hand-colored ;</marc:subfield><marc:subfield code="c">plate mark 35.1 x 52 cm, on sheet 38 x 53 cm</marc:subfield>
+<marc:subfield code="a">1 print :</marc:subfield><marc:subfield code="b">etching, hand-colored, on wove paper ;</marc:subfield><marc:subfield code="c">plate mark 345 x 348 mm, on sheet 350 x 360 mm.</marc:subfield>
+<marc:subfield code="a">1 print :</marc:subfield><marc:subfield code="b">stipple engraving on laid paper ;</marc:subfield><marc:subfield code="c">sheet 29.0 x 36.1 cm</marc:subfield>
+<marc:subfield code="a">1 print on laid paper :</marc:subfield><marc:subfield code="b">etching ;</marc:subfield><marc:subfield code="c">plate mark 19 x 12.5 cm., on sheet 23 x 14 cm.</marc:subfield>
+<marc:subfield code="a">1 print :</marc:subfield><marc:subfield code="b">etching on wove paper ;</marc:subfield><marc:subfield code="c">plate mark 23.2 x 28.7 cm, on sheet 28.5 x 34.1 cm</marc:subfield>
+<marc:subfield code="a">1 print :</marc:subfield><marc:subfield code="b">engraving on wove paper ;</marc:subfield><marc:subfield code="c">sheet 308 x 178 mm</marc:subfield>
+<marc:subfield code="a">1 print :</marc:subfield><marc:subfield code="b">etching and engraving ;</marc:subfield><marc:subfield code="c">plate mark 16.7 x 11.3 cm, on sheet 23 x 17 cm</marc:subfield>
+<marc:subfield code="a">1 print on wove paper :</marc:subfield><marc:subfield code="b">woodcut ;</marc:subfield><marc:subfield code="c">sheet 27 x 21 cm.</marc:subfield>
+<marc:subfield code="a">1 print :</marc:subfield><marc:subfield code="b">etching and engraving on laid paper ;</marc:subfield><marc:subfield code="c">sheet 36 x 48 cm</marc:subfield>
+<marc:subfield code="a">1 print :</marc:subfield><marc:subfield code="b">mezzotint with etching on laid paper, hand-colored ;</marc:subfield><marc:subfield code="c">plate mark 154 x 120 mm, on sheet 197 x 140 mm</marc:subfield>
+
+
+
+tag = "245",  frequency = 16669
+Average number of words, ignoring <>'s (mean, median, mode) = 12.31, 10, 7
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Well boy, what does Mr. Snip say about the clothes I ordered ...</marc:subfield><marc:subfield code="h">[graphic].</marc:subfield>
+<marc:subfield code="a">[Othello. Act V. Scene II]</marc:subfield><marc:subfield code="h">[graphic].</marc:subfield>
+<marc:subfield code="a">Strike me lucky, Helick, here's two regler dor'says!</marc:subfield><marc:subfield code="h">[graphic].</marc:subfield>
+<marc:subfield code="a">Ax about</marc:subfield><marc:subfield code="h">[graphic].</marc:subfield>
+<marc:subfield code="a">The eloped Clara</marc:subfield><marc:subfield code="h">[graphic] ;</marc:subfield><marc:subfield code="b">The combustible lover.</marc:subfield>
+<marc:subfield code="a">The sagacious buck, or, Effects of water proof</marc:subfield><marc:subfield code="h">[graphic].</marc:subfield>
+<marc:subfield code="a">Ill effect of masquerades</marc:subfield><marc:subfield code="h">[graphic] /</marc:subfield><marc:subfield code="c">Hogarth pinxt. ; LeCoeur sculp.</marc:subfield>
+<marc:subfield code="a">The scrubbing post</marc:subfield><marc:subfield code="h">[graphic].</marc:subfield>
+<marc:subfield code="a">Fellow feeling</marc:subfield><marc:subfield code="h">[graphic].</marc:subfield>
+<marc:subfield code="a">Mr. Marall sends out orders, and is on the look out for customers, previous to shutting up his shop</marc:subfield><marc:subfield code="h">[graphic].</marc:subfield>
+<marc:subfield code="a">A memento-mori watch</marc:subfield><marc:subfield code="h">[graphic] :</marc:subfield><marc:subfield code="b">presented by Mary Queen of Scots to Mary Seaton /</marc:subfield><marc:subfield code="c">C.J. Smith.</marc:subfield>
+<marc:subfield code="a">The Honble. Lady Walpole</marc:subfield><marc:subfield code="h">[graphic] /</marc:subfield><marc:subfield code="c">M. Dahl pinx. ; Simon fecit.</marc:subfield>
+<marc:subfield code="a">The embossed suit of armour from Strawberry Hill</marc:subfield><marc:subfield code="h">[graphic] :</marc:subfield><marc:subfield code="b">purchased by Horace Walpole of Mons. de Crozet in 1772, now in the collection of Samuel Pratt, 47, New Bond Street /</marc:subfield><marc:subfield code="c">J.H. Nixon.</marc:subfield>
+<marc:subfield code="a">Robinson Crusoe and his three kids</marc:subfield><marc:subfield code="h">[graphic].</marc:subfield>
+<marc:subfield code="a">[View of Strawberry Hill, from the south, with Twickenham beyond]</marc:subfield><marc:subfield code="h">[art original].</marc:subfield>
+<marc:subfield code="a">Ancient music</marc:subfield><marc:subfield code="h">[graphic].</marc:subfield>
+<marc:subfield code="a">Which is right, or, Regular and quack opinions on the flushing fever</marc:subfield><marc:subfield code="h">[graphic].</marc:subfield>
+<marc:subfield code="a">The same to you sir, &amp; many of e'm</marc:subfield><marc:subfield code="h">[graphic] /</marc:subfield><marc:subfield code="c">M.E. Esqr. del. ; G. Hunt sc.</marc:subfield>
+<marc:subfield code="a">A new deceptio visûs</marc:subfield><marc:subfield code="h">[graphic] /</marc:subfield><marc:subfield code="c">engrav'd and sold by Geo. Bickham in Hatton Garden, near Holborn, London.</marc:subfield>
+<marc:subfield code="a">Horace Walpole, Earl of Orford</marc:subfield><marc:subfield code="h">[graphic] /</marc:subfield><marc:subfield code="c">Sr. Joshua Reynolds pinxit ; J. Barlow sculp.</marc:subfield>
+
+
+
+tag = "040",  frequency = 16667
+Average number of words, ignoring <>'s (mean, median, mode) = 4.04, 4, 4
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield><marc:subfield code="e">gihc</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="e">rda</marc:subfield><marc:subfield code="e">dcrmg</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="e">rda</marc:subfield><marc:subfield code="e">dcrmg</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="e">rda</marc:subfield><marc:subfield code="e">dcrmg</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="e">rda</marc:subfield><marc:subfield code="e">dcrmg</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="e">dcrmg</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield><marc:subfield code="e">gihc</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="e">dcrmg</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="e">dcrmg</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="e">rda</marc:subfield><marc:subfield code="e">dcrmg</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="e">rda</marc:subfield><marc:subfield code="e">dcrmg</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield><marc:subfield code="e">gihc</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield><marc:subfield code="e">gihc</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield><marc:subfield code="e">gihc</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="e">dcrmg</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="e">rda</marc:subfield><marc:subfield code="e">dcrmg</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="e">rda</marc:subfield><marc:subfield code="e">dcrmg</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="b">eng</marc:subfield><marc:subfield code="e">rda</marc:subfield><marc:subfield code="e">dcrmg</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield>
+<marc:subfield code="a">CtY-LW</marc:subfield><marc:subfield code="c">CtY-LW</marc:subfield><marc:subfield code="e">gihc</marc:subfield>
+
+
+
+tag = "043",  frequency = 16196
+Average number of words, ignoring <>'s (mean, median, mode) = 1.0, 1.0, 1
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-st</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+<marc:subfield code="a">e-uk-en</marc:subfield>
+
+
+
+tag = "099",  frequency = 15812
+Average number of words, ignoring <>'s (mean, median, mode) = 1.9, 1.0, 1
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">808.05.00.01+</marc:subfield>
+<marc:subfield code="a">Drawings</marc:subfield><marc:subfield code="a">B234</marc:subfield><marc:subfield code="a">no. 1</marc:subfield>
+<marc:subfield code="a">794.03.25.01</marc:subfield>
+<marc:subfield code="a">765.00.00.08</marc:subfield>
+<marc:subfield code="a">848.00.00.20</marc:subfield>
+<marc:subfield code="a">794.05.12.42+</marc:subfield>
+<marc:subfield code="a">772.04.14.01</marc:subfield>
+<marc:subfield code="a">782.07.22.01.1+</marc:subfield>
+<marc:subfield code="a">830.00.00.155</marc:subfield>
+<marc:subfield code="a">797.11.20.04</marc:subfield>
+<marc:subfield code="a">33</marc:subfield><marc:subfield code="a">30</marc:subfield><marc:subfield code="a">Copy 4</marc:subfield>
+<marc:subfield code="a">75</marc:subfield><marc:subfield code="a">L328</marc:subfield><marc:subfield code="a">733</marc:subfield>
+<marc:subfield code="a">798.05.15.01</marc:subfield>
+<marc:subfield code="a">777.12.09.01+</marc:subfield>
+<marc:subfield code="a">Portraits</marc:subfield><marc:subfield code="a">C955</marc:subfield><marc:subfield code="a">no. 1</marc:subfield>
+<marc:subfield code="a">820.01.25.02</marc:subfield>
+<marc:subfield code="a">49</marc:subfield><marc:subfield code="a">3582</marc:subfield>
+<marc:subfield code="a">49</marc:subfield><marc:subfield code="a">3678</marc:subfield>
+<marc:subfield code="a">Babb-Beckford</marc:subfield><marc:subfield code="a">no. 44+</marc:subfield>
+<marc:subfield code="a">796.02.25.03</marc:subfield>
+
+
+
+tag = "600",  frequency = 15210
+Average number of words, ignoring <>'s (mean, median, mode) = 7.21, 7.0, 6
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Cumberland, William Augustus,</marc:subfield><marc:subfield code="c">Duke of,</marc:subfield><marc:subfield code="d">1721-1765</marc:subfield><marc:subfield code="v">Portraits.</marc:subfield>
+<marc:subfield code="a">Pitt, William,</marc:subfield><marc:subfield code="d">1759-1806</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">Demont, Louisa,</marc:subfield><marc:subfield code="d">active 1814-1820</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">Fitzherbert, Maria Anne,</marc:subfield><marc:subfield code="d">1756-1837</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">Bute, John Stuart,</marc:subfield><marc:subfield code="c">Earl of,</marc:subfield><marc:subfield code="d">1713-1792</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">Tierney, George,</marc:subfield><marc:subfield code="d">1761-1830</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">Charles</marc:subfield><marc:subfield code="b">I,</marc:subfield><marc:subfield code="c">King of England,</marc:subfield><marc:subfield code="d">1600-1649,</marc:subfield><marc:subfield code="e">depicted.</marc:subfield><marc:subfield code="0">http://id.loc.gov/authorities/names/n79132433</marc:subfield>
+<marc:subfield code="a">Cavendish, Georgiana Spencer,</marc:subfield><marc:subfield code="c">Duchess of Devonshire,</marc:subfield><marc:subfield code="d">1757-1806</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">Louis</marc:subfield><marc:subfield code="b">XVI,</marc:subfield><marc:subfield code="c">King of France,</marc:subfield><marc:subfield code="d">1754-1793</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">Augusta,</marc:subfield><marc:subfield code="c">Princess of Wales,</marc:subfield><marc:subfield code="d">1719-1772</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">Harcourt, Edward,</marc:subfield><marc:subfield code="d">1757-1847</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">Fox, Charles James,</marc:subfield><marc:subfield code="d">1749-1806</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">Stanhope, Charles Stanhope,</marc:subfield><marc:subfield code="c">Earl,</marc:subfield><marc:subfield code="d">1753-1816</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">Charles</marc:subfield><marc:subfield code="b">III,</marc:subfield><marc:subfield code="c">King of Spain,</marc:subfield><marc:subfield code="d">1716-1788.</marc:subfield>
+<marc:subfield code="a">Philip</marc:subfield><marc:subfield code="b">V,</marc:subfield><marc:subfield code="c">King of Spain,</marc:subfield><marc:subfield code="d">1683-1746</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">George</marc:subfield><marc:subfield code="b">IV,</marc:subfield><marc:subfield code="c">King of Great Britain,</marc:subfield><marc:subfield code="d">1762-1830</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">Pasquin, Anthony,</marc:subfield><marc:subfield code="d">1761-1818,</marc:subfield><marc:subfield code="e">depicted.</marc:subfield><marc:subfield code="0">http://id.loc.gov/authorities/names/n85388077</marc:subfield>
+<marc:subfield code="a">Rock, Richard,</marc:subfield><marc:subfield code="d">1690-1777.</marc:subfield>
+<marc:subfield code="a">Shakespeare, William,</marc:subfield><marc:subfield code="d">1564-1616</marc:subfield><marc:subfield code="x">Characters.</marc:subfield>
+<marc:subfield code="a">Pitt, William,</marc:subfield><marc:subfield code="d">1759-1806</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+
+
+
+tag = "700",  frequency = 14446
+Average number of words, ignoring <>'s (mean, median, mode) = 4.6, 4.0, 4
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Green, Valentine,</marc:subfield><marc:subfield code="d">1739-1813,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield><marc:subfield code="0">http://id.loc.gov/authorities/names/no90017793</marc:subfield>
+<marc:subfield code="a">Gillray, James,</marc:subfield><marc:subfield code="d">1756-1815,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield><marc:subfield code="0">http://id.loc.gov/authorities/names/n50033402</marc:subfield>
+<marc:subfield code="a">Lockington, John,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Edwards, George,</marc:subfield><marc:subfield code="d">1694-1773,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Drake, G.,</marc:subfield><marc:subfield code="d">active 1832-1836,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Robinson, John,</marc:subfield><marc:subfield code="d">1715-1745,</marc:subfield><marc:subfield code="e">artist.</marc:subfield>
+<marc:subfield code="a">Knyff, Leonard,</marc:subfield><marc:subfield code="d">1650-1721,</marc:subfield><marc:subfield code="e">artist.</marc:subfield>
+<marc:subfield code="a">Holland, William,</marc:subfield><marc:subfield code="d">active 1782-1817,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Woodward, G. M.</marc:subfield><marc:subfield code="q">(George Moutard),</marc:subfield><marc:subfield code="d">approximately 1760-1809,</marc:subfield><marc:subfield code="e">artist.</marc:subfield>
+<marc:subfield code="a">Darly, M.</marc:subfield><marc:subfield code="q">(Mary),</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Holland, William,</marc:subfield><marc:subfield code="d">active 1782-1817,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Williamson, T.,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Edwards, George,</marc:subfield><marc:subfield code="d">1694-1773,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Bentley, Richard,</marc:subfield><marc:subfield code="d">1794-1871,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Knyff, Leonard,</marc:subfield><marc:subfield code="d">1650-1721,</marc:subfield><marc:subfield code="e">artist.</marc:subfield>
+<marc:subfield code="a">Burch, Hendrick van der,</marc:subfield><marc:subfield code="d">1627-approximately 1666,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Kneller, Godfrey,</marc:subfield><marc:subfield code="c">Sir,</marc:subfield><marc:subfield code="d">1646-1723,</marc:subfield><marc:subfield code="e">artist.</marc:subfield>
+<marc:subfield code="a">Cipriani, Giovanni Battista,</marc:subfield><marc:subfield code="d">1727-1785.</marc:subfield>
+<marc:subfield code="a">Brandoin, Michel Vincent,</marc:subfield><marc:subfield code="d">1733-1807,</marc:subfield><marc:subfield code="e">artist.</marc:subfield>
+<marc:subfield code="a">Cosway, Maria Hadfield,</marc:subfield><marc:subfield code="d">1759-1838,</marc:subfield><marc:subfield code="e">artist.</marc:subfield>
+
+
+
+tag = "260",  frequency = 11581
+Average number of words, ignoring <>'s (mean, median, mode) = 11.29, 11, 6
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">[John Joshua Kirby?],</marc:subfield><marc:subfield code="c">[February 1754]</marc:subfield>
+<marc:subfield code="a">London :</marc:subfield><marc:subfield code="b">Printed for Robt. Sayer, No. 53 in Fleet Street, as the act directs</marc:subfield><marc:subfield code="c">1st Jany. 1772.</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">Publish'd April 6th 1782 by Chs. Bretherton,</marc:subfield><marc:subfield code="c">[6 April 1782]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">[Leveridge],</marc:subfield><marc:subfield code="c">[November 1727]</marc:subfield>
+<marc:subfield code="a">[England :</marc:subfield><marc:subfield code="b">s.n.,</marc:subfield><marc:subfield code="c">1841?]</marc:subfield>
+<marc:subfield code="a">London :</marc:subfield><marc:subfield code="b">Printed for R. Sayer; No. 53 Fleet Street published as the Act directs,</marc:subfield><marc:subfield code="c">1st. Decr. 1770.</marc:subfield>
+<marc:subfield code="a">London :</marc:subfield><marc:subfield code="b">Pubd. as the act directs Octr. 13, 1796, by G.M. Woodward, No. 11 Berners St., Oxford St.,</marc:subfield><marc:subfield code="c">[13 October 1796]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">[publisher not identified],</marc:subfield><marc:subfield code="c">[1769]</marc:subfield>
+<marc:subfield code="a">London :</marc:subfield><marc:subfield code="b">Printed for R. Sayer and J Bennett ... No. 53 Fleet Street ... ,</marc:subfield><marc:subfield code="c">14 Feb. 1782.</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">[s.n.],</marc:subfield><marc:subfield code="c">[ca. 1798]</marc:subfield>
+<marc:subfield code="a">[Amsterdam] :</marc:subfield><marc:subfield code="b">[Bernard Picart?],</marc:subfield><marc:subfield code="c">[1716]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">[publisher not identified],</marc:subfield><marc:subfield code="c">[October 1794]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">Pub'd March 6 1788, by S.W. Fores, No. 3 Piccadilly,</marc:subfield><marc:subfield code="c">[6 March 1788]</marc:subfield>
+<marc:subfield code="a">[London?] :</marc:subfield><marc:subfield code="b">[s.n.],</marc:subfield><marc:subfield code="c">[178-?]</marc:subfield>
+<marc:subfield code="a">[England] :</marc:subfield><marc:subfield code="b">[s.n.],</marc:subfield><marc:subfield code="c">[1851?]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">[Robert Sayer],</marc:subfield><marc:subfield code="c">[1760?]</marc:subfield>
+<marc:subfield code="a">London :</marc:subfield><marc:subfield code="b">Pubd by W. Holland, 50 Oxford Street,</marc:subfield><marc:subfield code="c">Novr. 8, 1800.</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">Published Octr. 1788 by Thos. King, New Broad Street</marc:subfield><marc:subfield code="c">[October 1788]</marc:subfield>
+<marc:subfield code="a">London :</marc:subfield><marc:subfield code="b">Published by William Holland, No. 50 Oxford St.,</marc:subfield><marc:subfield code="c">July 7th, 1791.</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">[Robert Dodsley?],</marc:subfield><marc:subfield code="c">[1738]</marc:subfield><marc:subfield code="g">([printed 1767])</marc:subfield>
+
+
+
+tag = "100",  frequency = 10555
+Average number of words, ignoring <>'s (mean, median, mode) = 4.54, 4, 4
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Boyne, John,</marc:subfield><marc:subfield code="d">approximately 1750-1810,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Harding, G. P.</marc:subfield><marc:subfield code="q">(George Perfect),</marc:subfield><marc:subfield code="d">1780-1853,</marc:subfield><marc:subfield code="e">artist.</marc:subfield>
+<marc:subfield code="a">Smith, John,</marc:subfield><marc:subfield code="d">1659-1715,</marc:subfield><marc:subfield code="e">printmaker,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Williams, Charles,</marc:subfield><marc:subfield code="d">active 1797-1830,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Heath, Henry,</marc:subfield><marc:subfield code="d">active 1824-1850,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Sandby, Paul,</marc:subfield><marc:subfield code="d">1731-1809,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Cruikshank, Isaac,</marc:subfield><marc:subfield code="d">1756?-1811?,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Hogarth, William,</marc:subfield><marc:subfield code="d">1697-1764,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Rowlandson, Thomas,</marc:subfield><marc:subfield code="d">1756-1827,</marc:subfield><marc:subfield code="e">printmaker,</marc:subfield><marc:subfield code="e">artist.</marc:subfield>
+<marc:subfield code="a">Williams, Charles,</marc:subfield><marc:subfield code="d">fl. 1797-1830,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Rowlandson, Thomas,</marc:subfield><marc:subfield code="d">1756-1827,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Hogarth, William,</marc:subfield><marc:subfield code="d">1697-1764,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Du Bosc, Claude,</marc:subfield><marc:subfield code="d">1684-1745?,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Chapman, J.</marc:subfield><marc:subfield code="q">(John),</marc:subfield><marc:subfield code="d">active 1792-1823,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Simon, John,</marc:subfield><marc:subfield code="d">approximately 1675-1751,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Heath, William,</marc:subfield><marc:subfield code="d">1795-1840,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield><marc:subfield code="0">http://id.loc.gov/authorities/names/no89015953</marc:subfield>
+<marc:subfield code="a">Gillray, James,</marc:subfield><marc:subfield code="d">1756-1815,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Rowlandson, Thomas,</marc:subfield><marc:subfield code="d">1756-1827,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Rowlandson, Thomas,</marc:subfield><marc:subfield code="d">1756-1827,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Edwards, Edward,</marc:subfield><marc:subfield code="d">1738-1806,</marc:subfield><marc:subfield code="e">artist.</marc:subfield>
+
+
+
+tag = "079",  frequency = 10499
+Average number of words, ignoring <>'s (mean, median, mode) = 1.21, 1, 1
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">ocn701829582</marc:subfield>
+<marc:subfield code="a">ocn701822455</marc:subfield>
+<marc:subfield code="a">ocn701882121</marc:subfield>
+<marc:subfield code="a">ocn701821395</marc:subfield>
+<marc:subfield code="a">ocn701819074</marc:subfield>
+<marc:subfield code="a">(OCoLC)1010267993</marc:subfield>
+<marc:subfield code="a">(OCoLC)1085481576</marc:subfield><marc:subfield code="z">ocn701813951</marc:subfield>
+<marc:subfield code="a">(OCoLC)1077316264</marc:subfield><marc:subfield code="z">ocn701826069</marc:subfield>
+<marc:subfield code="a">ocn701756154</marc:subfield>
+<marc:subfield code="a">ocn701823676</marc:subfield>
+<marc:subfield code="a">(OCoLC)1055326995</marc:subfield>
+<marc:subfield code="a">(OCoLC)1090888378</marc:subfield>
+<marc:subfield code="a">(OCoLC)1050929108</marc:subfield>
+<marc:subfield code="a">ocn701753410</marc:subfield>
+<marc:subfield code="a">ocn701825294</marc:subfield>
+<marc:subfield code="a">(OCoLC)1090093585</marc:subfield>
+<marc:subfield code="a">ocn701842497</marc:subfield>
+<marc:subfield code="a">ocn701812772</marc:subfield>
+<marc:subfield code="a">ocn701840362</marc:subfield>
+<marc:subfield code="a">ocn701835074</marc:subfield>
+
+
+
+tag = "510",  frequency = 9068
+Average number of words, ignoring <>'s (mean, median, mode) = 17.76, 19.0, 19
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Wright, T. Historical and descriptive account of the caricatures by James Gillray,</marc:subfield><marc:subfield code="c">no. 299</marc:subfield>
+<marc:subfield code="a">Wright, T. Historical and descriptive account of the caricatures by James Gillray,</marc:subfield><marc:subfield code="c">no. 404</marc:subfield>
+<marc:subfield code="a">Catalogue of prints and drawings in the British Museum. Division I, political and personal satires,</marc:subfield><marc:subfield code="c">v. 6, no. 6712</marc:subfield>
+<marc:subfield code="a">Catalogue of prints and drawings in the British Museum. Division I, political and personal satires / Mary Dorothy George,</marc:subfield><marc:subfield code="c">v. 8, no. 9824</marc:subfield>
+<marc:subfield code="a">Catalogue of prints and drawings in the British Museum. Division I, political and personal satires / Mary Dorothy George,</marc:subfield><marc:subfield code="c">v. 5, no. 6161</marc:subfield>
+<marc:subfield code="a">Wright, T. Historical and descriptive account of the caricatures by James Gillray,</marc:subfield><marc:subfield code="c">no. 178</marc:subfield>
+<marc:subfield code="a">Krumbhaar, E.B. Isaac Cruikshank: a catalogue raisonné,</marc:subfield><marc:subfield code="c">no. 1039</marc:subfield>
+<marc:subfield code="a">Adams, B. London illustrated 1604-1850,</marc:subfield><marc:subfield code="c">pages 223-228</marc:subfield>
+<marc:subfield code="a">Catalogue of prints and drawings in the British Museum. Division I, political and personal satires,</marc:subfield><marc:subfield code="c">v.7, no. 9459</marc:subfield>
+<marc:subfield code="a">Catalogue of prints and drawings in the British Museum. Division I, political and personal satires / Frederick George Stephens,</marc:subfield><marc:subfield code="c">v. 4, no. 3806</marc:subfield>
+<marc:subfield code="a">Catalogue of prints and drawings in the British Museum. Division I, political and personal satires / Mary Dorothy George,</marc:subfield><marc:subfield code="c">v. 4, no. 5589</marc:subfield>
+<marc:subfield code="a">Grego, J. Rowlandson the caricaturist,</marc:subfield><marc:subfield code="c">v. 2, page 1</marc:subfield>
+<marc:subfield code="a">Catalogue of prints and drawings in the British Museum. Division I, political and personal satires,</marc:subfield><marc:subfield code="c">v. 7, no. 8357</marc:subfield>
+<marc:subfield code="a">Francesco Bartolozzi : catalogue des estampes / d'après les manuscrits de A. de Vesme, par A. Calabi. Milan : Guido Modiano, 1928,</marc:subfield><marc:subfield code="c">no. 1744</marc:subfield>
+<marc:subfield code="a">Catalogue of prints and drawings in the British Museum. Division I, political and personal satires,</marc:subfield><marc:subfield code="c">v. 6, no. 7026.1</marc:subfield>
+<marc:subfield code="a">Paulson, R. Hogarth's graphic works (3rd ed.),</marc:subfield><marc:subfield code="c">no. 233</marc:subfield>
+<marc:subfield code="a">Wright, T. Works of James Gillray, the caricaturist with the history of his life and times,</marc:subfield><marc:subfield code="c">p. 289</marc:subfield>
+<marc:subfield code="a">Catalogue of engraved British portraits preserved in the Department of Prints and Drawings in the British Museum,</marc:subfield><marc:subfield code="c">v. 4, page 148</marc:subfield>
+<marc:subfield code="a">Catalogue of prints and drawings in the British Museum. Division I, political and personal satires,</marc:subfield><marc:subfield code="c">v. 5, no. 5143</marc:subfield>
+<marc:subfield code="a">Smith, J.C. British mezzotinto portraits,</marc:subfield><marc:subfield code="c">v. 3, no. 51, pages 1262-3</marc:subfield>
+
+
+
+tag = "520",  frequency = 8635
+Average number of words, ignoring <>'s (mean, median, mode) = 82.78, 54, 22
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">A representation of contrasting feelings and emotions in two separate oval frames on one plate. In the left one, a dejected-looking middle-aged gentleman in fine clothes, bag wig, and a bow under his chin, is gazing ahead with unseeing eyes. His chin rests on the handle of a gold-headed cane that he is holding up with both hands. His forehead is creased with worry and his mouth downturned. In the frame on the right, a stout middle-aged, genial man in simpler clothes of the same period, and in what appears to be a bob-wig parted in the middle, laughs joyously pointing to the disconsolate looking gentleman on the left.</marc:subfield>
+<marc:subfield code="a">A large cotton handkerchief printed with red ink (madder); the drop head title is printed on a ribbon suspended between two trumpets and is divided after the word 'valentine' by a portrait of Pope.  The central cartouche shows three scenes of courtship and is encircled by a knotted ribbon, every other loop in a heart-shape, and contains the lines beginning: I liked you best for true love it is a precious pleasure of a value more than rich mens treasure ... The lines of a love song telling the story of the courtship and marriage of Johnny and Mary are printed in the ribbons flowing on either side of the title ribbon.  Along the bottom are two more scenes -- one of the betrothal, the other the wedding -- with two love birds in a small cartouche dividing the two scenes.</marc:subfield>
+<marc:subfield code="a">In an elegant bedroom a young woman sits at her dressing table looking at her reflection in the mirror.  At her side is a barber with combs in his apron gestures at her image which shows the elaborate high hair of the fashion.  Embroidered curtains hang over her canopied bed; the room is decorated with wallpaper and a patterned rug, curtains on the window, and a sash behing the dressing table.</marc:subfield>
+<marc:subfield code="a">A collection of prints and one drawing, mostly portraits of Samuel Johnson and James Boswell, mounted in Walpole's copy of  James Boswell's The journal of a tour to the Hebrides, with Samuel Johnson (London : Henry Baldwin, for Charles Dilly, 1785).</marc:subfield>
+<marc:subfield code="a">Two head-and-shoulder portraits in separate ornamental oval frames of Miss Harriet Powell (numbered 13) and Lord Seaforth (numbered 14), whom she married in or before 1779.</marc:subfield>
+<marc:subfield code="a">Hogarth shows Sganarelle coming up behind his wife, who is admiring a miniature portrati of a young man which she had innocently discovered on the ground. Sganarelle is making the cuckold's sign with his right hand over his head.</marc:subfield>
+<marc:subfield code="a">&quot;View of Richmond with a large house on the bank to left, figures at the edge of the water in the foreground, rowing boats on the river to right, including a laden barge passing a narrow island, with houses on the ridge of the slope of the far bank opposite.&quot;--British Museum online catalogue.</marc:subfield>
+<marc:subfield code="a">Portrait of Pierre de Bourdeille, seigneur de Brantôme; bust-length, directed to the right; bearded; wearing a doublet; with a ruff and a medallion around his neck.</marc:subfield>
+<marc:subfield code="a">Two head-and-shoulder portraits in separate ornamental oval frames numbered 'xxvi' and 'xxvii'.</marc:subfield>
+<marc:subfield code="a">&quot;The comet has the profile head of Napoleon wearing a plumed bicorne; it rushes up from the left towards the sun, the profile head of George III, much irradiated. John Bull, a carbuncled 'cit', stoops low to look through a telescope on a tripod pointing towards the comet. Napoleon looks up at the King, who gazes fixedly above his head. He has ascended from a small piece of land rising from the narrow Channel separating it from John's wider fragment. Up this a frog clambers. On the open sea ships are strung out along the horizon. John says: &quot;Aye - Aye - Master Comet - you may attempt your Periheliums - or your Devil heliums for what I care but take the word of an Old Man you'll never reach the Sun depend upon it&quot;.&quot;--British Museum online catalogue, description of an earlier state.</marc:subfield>
+<marc:subfield code="a">A copy in reverse of William Hogarth's Plate 2 of A harlot's progress: Mary Hackabout (left), now a harlot and mistress of a wealthy London Jew, exposes her breast and kicks over a tea table to divert his attention from the presence of her younger lover who hides behind the door of the room with her maid servant. A monkey and young black servant boy in a feathered turban look on the scene with frighten expressions. The mask and mirror in the lower left corner and the paintings of scenes from the Old Testament (Jonah IV.8 and 2 Samuel VI.1-5) hanging on the wall further amplify the artist's moral message.</marc:subfield>
+<marc:subfield code="a">Copy of the image from Hogarth's subscription ticket for &quot;Marriage A-la-Mode&quot;.  A group of heads drawn in a naturalistic style seen in profile; below, five compartments with heads after Raphael's Vatican tapestry cartoons (i.e.&quot;characters&quot;) and caricatures after Ghezzi, Raphael Urbin, Annibale Carracci, and Leonardo da Vinci.</marc:subfield>
+<marc:subfield code="a">&quot;One of a set of four hunting-scenes with punning titles, with the same signatures and imprint; they have pleasant landscape backgrounds, with clouds. A rider (left) has been flung over his horse's head and lies on his face screaming; the horse falls into a deep ditch edged by a fence (right). From one pocket spout the contents of a bottle of wine, from the other two hounds are tugging a cold chicken, other hounds are making with fierce intentness towards the chicken. A second rider just behind the fence pulls up his horse in alarm, a third in the background leaps over fence and ditch. See BMSats 9589-91; cf. BMSat 9592, &amp;c.&quot;--British Museum online catalogue.</marc:subfield>
+<marc:subfield code="a">&quot;Dissenters are engaged in burning churches and attacking the clergy. In the foreground a stout bishop on his knees is being kicked and assailed by men with bludgeons; beside him is a book: 'Refutation of Dr Price'. He exclaims, raising his hands, &quot;Murder, fire, thieves&quot;. One of his assailants says, &quot;Make room for the Apostle of Liberty&quot;; the other, &quot;God assisting us nothing is to be feared&quot;. Under this group is inscribed: 'And when they had smote the Shepherd, the Sheep were scattered'. Behind (right) a Gothic building, from which extends a sign of the Mitre and Crown, is being demolished. Price sits astride on the beam supporting the sign; in one hand is an open book, 'Love of our Country', in the other is a firebrand inscribed 'The Flame of Liberty'. Beneath, two men in steeple-crowned hats are feeding a fire with faggots, whose flame and smoke, inscribed '39 Articles', ascends in a thick cloud. Next the burning building, and on the extreme right, is a porch (over a doorway) in which stands Fox, blowing a horn and pointing down to a placard over the doorway: 'Places under Government to be disposed of. NB, Several Faro and E.O. Tables in good Condition'. An adjacent placard is: 'day next charity sermon by Revd chas Fox'. A group of eager fanatics with lank hair rushes towards the doorway, holding up to Fox money-bags inscribed '30.000', '10.000' and '20.000.' In the foreground (right) are two fanatics struggling for the bag of the Great Seal; one raises a mace inscribed 'Brotherly Love' to strike his opponent; under his foot is a paper: 'Repeal of the Test Act'.  In the background (left) is a group of figures engaged in demolishing a church with pickaxes; a rope pulls over the cross on the steeple. Two of this group look towards Price: a parson inscribed 'P------ly' (Priestley) waves his hat, saying, &quot;Make haste to pull down that old Whore and we'll build a new one in its place&quot;; a lean man, fashionably dressed (evidently Stanhope), extends his arms, saying, &quot;Address to Assemblee national&quot;.&quot;--British Museum online catalogue, description of an earlier state with similar composition.</marc:subfield>
+<marc:subfield code="a">Two head-and-shoulder portraits in separate ornamental oval frames of Miss L-n, the orphan daughter of a doctor, and her lover, Viscount Petersham, later Earl Stanhope.</marc:subfield>
+<marc:subfield code="a">Self-portrait of William Hogarth in a fur cap, looking right; a bust in an oval canvas resting on volumes of Shakespeare's works; with his dog Trump on the right. In the lower right, an artist's palette engraved with the words: &quot;The line of beauty and grace. WH 1745&quot;. Stack of books labeled: Shakspeare, Swift Works, Milton Paradise Lost.</marc:subfield>
+<marc:subfield code="a">Double portrait of King Richard III and his Queen, full-length, in robes and crowned.</marc:subfield>
+<marc:subfield code="a">&quot;Portrait of Thomas Howard, Duke of Norfolk, bust directed to left but looking at the viewer, wearing a feathered beret and collar of the Order of St Michel; in an architectural oval with draped curtain beyond and cartouche below; a weeping putto seated next to an axe and resting his hand on a crown below.&quot;--British Museum online catalogue.</marc:subfield>
+<marc:subfield code="a">&quot;Satire on barbers showing a figure composed from implements connected with the trade, the body being a mirror, the arms razors, the legs tongs, etc. In the background, three heads on blocks with names of &quot;Three Notorious Spoil Trades&quot;: &quot;N - cre&quot;, &quot;Warehouse/Gr-ng - r&quot; and &quot;Ch-p-m-n&quot;; woods, a house and hills beyond. Surrounded by a rococo frame from which hang combs, curls,etc.; title in a cartouche above and key below with publication line&quot;--British Museum catalogue.</marc:subfield>
+<marc:subfield code="a">Portrait drawing, bust length, nearly in profile to the right; wearing a garment with an open collar.</marc:subfield>
+
+
+
+tag = "692",  frequency = 7951
+Average number of words, ignoring <>'s (mean, median, mode) = 4.4, 4, 4
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Knight, William,</marc:subfield><marc:subfield code="d">-1847</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Walpole, Horace,</marc:subfield><marc:subfield code="d">1717-1797</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Auchincloss, Hugh Dudley</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Auchincloss, Hugh Dudley</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Auchincloss, Hugh Dudley</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Auchincloss, Hugh Dudley</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Harvey, Francis</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Sayers, James,</marc:subfield><marc:subfield code="d">1748-1823</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Walpole, Horace</marc:subfield><marc:subfield code="d">1717-1797</marc:subfield><marc:subfield code="x">Presentation to Richard Bull.</marc:subfield>
+<marc:subfield code="a">Curtis, Edith Fanny Onslow,</marc:subfield><marc:subfield code="d">-1944</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Knight, William,</marc:subfield><marc:subfield code="d">-1847</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Walpole, Horace,</marc:subfield><marc:subfield code="d">1717-1797</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Humphrey, G.</marc:subfield><marc:subfield code="q">(George),</marc:subfield><marc:subfield code="d">1773-1831?</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Steevens, George,</marc:subfield><marc:subfield code="d">1736-1800</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Heard, Isaac,</marc:subfield><marc:subfield code="c">Sir,</marc:subfield><marc:subfield code="d">1730-1822</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Kirgate, Thomas,</marc:subfield><marc:subfield code="d">1734-1810</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Walpole, Horace,</marc:subfield><marc:subfield code="d">1717-1797</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Curtis, Charles Constable,</marc:subfield><marc:subfield code="d">1852-1936</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Kinnaird, Charles Kinnaird,</marc:subfield><marc:subfield code="c">Baron,</marc:subfield><marc:subfield code="d">1780-1826</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+<marc:subfield code="a">Walpole, Horace,</marc:subfield><marc:subfield code="d">1717-1797</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+
+
+
+tag = "246",  frequency = 6442
+Average number of words, ignoring <>'s (mean, median, mode) = 5.61, 5.0, 2
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Favourite captain</marc:subfield>
+<marc:subfield code="a">Charles the Second in the forest of Boscobel</marc:subfield>
+<marc:subfield code="a">Proof of the refined feelings of an amiable character ...</marc:subfield>
+<marc:subfield code="a">Royal cockpit</marc:subfield>
+<marc:subfield code="a">Striking proof of the danger of slight straps</marc:subfield>
+<marc:subfield code="a">Georgius I D. G. Magnae Britannia Franc. et Hib. Rex defensor ...</marc:subfield>
+<marc:subfield code="a">Compliments return'd</marc:subfield>
+<marc:subfield code="a">Genii takes bedridden Hassen from the bed of the beautiful lady and lays him at the gates of Damascus</marc:subfield>
+<marc:subfield code="i">Title from Catalogue:</marc:subfield><marc:subfield code="a">Sir Thomas Wyndham admonishing his sons to preserve their loyalty to the King</marc:subfield>
+<marc:subfield code="a">Courtiers attempting to bridle the tongue of the late worthy Lord Mayor</marc:subfield>
+<marc:subfield code="a">Popery in masquerade</marc:subfield>
+<marc:subfield code="a">Invitation card</marc:subfield>
+<marc:subfield code="a">Kite carriage</marc:subfield>
+<marc:subfield code="a">Express from the committee</marc:subfield>
+<marc:subfield code="a">National Assembly revivified</marc:subfield>
+<marc:subfield code="a">New to the school of hard mishap, driven from the ease of Fortune's lap</marc:subfield>
+<marc:subfield code="a">Royal rumping</marc:subfield>
+<marc:subfield code="a">Sr., you are desired to accompany the Society of Painters ...</marc:subfield>
+<marc:subfield code="a">Examination in the public schools at Oxford for a degree</marc:subfield>
+<marc:subfield code="a">Her Royal Highness Mary Princess of Orange</marc:subfield>
+
+
+
+tag = "336",  frequency = 5317
+Average number of words, ignoring <>'s (mean, median, mode) = 3.41, 4, 4
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="b">sti</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">text</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="b">stl</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="b">stl</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="b">sti</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="b">sti</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="b">sti</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="b">sti</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="b">sti</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">text</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="b">sti</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">still image</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+<marc:subfield code="a">text</marc:subfield><marc:subfield code="2">rdacontent</marc:subfield>
+
+
+
+tag = "264",  frequency = 5129
+Average number of words, ignoring <>'s (mean, median, mode) = 10.8, 11, 6
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">Pubd. Decr. 1st, 1813, by Thos. Tegg, 111 Cheapside,</marc:subfield><marc:subfield code="c">[1 December 1813]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">[William Hunter],</marc:subfield><marc:subfield code="c">[ca. 1757]</marc:subfield>
+<marc:subfield code="a">[London?] :</marc:subfield><marc:subfield code="b">[publisher not identified],</marc:subfield><marc:subfield code="c">[ca. 1821]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">Pubd. Septr. 1814 by T. Tegg, No. 111 Cheapside, London,</marc:subfield><marc:subfield code="c">[September 1814]</marc:subfield>
+<marc:subfield code="a">London :</marc:subfield><marc:subfield code="b">Pub. Jan. 1, 1791, by E. Harding, 132 Fleet Street,</marc:subfield><marc:subfield code="c">[1 January 1791]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">[publisher not identified],</marc:subfield><marc:subfield code="c">[ca. February 1788]</marc:subfield>
+<marc:subfield code="a">[England] :</marc:subfield><marc:subfield code="b">[Norris],</marc:subfield><marc:subfield code="c">[ca. 1757]</marc:subfield>
+<marc:subfield code="a">A Paris :</marc:subfield><marc:subfield code="b">Chez Blin, Place Maubert, No. 17, A.P.D.R.,</marc:subfield><marc:subfield code="c">1792.</marc:subfield>
+<marc:subfield code="a">London :</marc:subfield><marc:subfield code="b">Pubd. Septr. 10th, 1799, by R. Akerman, No. 101 Strand,</marc:subfield><marc:subfield code="c">[10 September 1799]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">Pubd. March 12, 1800, by R. Ackerman, No. 101 Strand,</marc:subfield><marc:subfield code="c">[12 March 1800]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">[Thomas Tegg],</marc:subfield><marc:subfield code="c">[not before 1 January 1807]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">Pubd. by G. Humphrey, 27 St. James's St.,</marc:subfield><marc:subfield code="c">1820.</marc:subfield>
+<marc:subfield code="a">[England] :</marc:subfield><marc:subfield code="b">[publisher not identified],</marc:subfield><marc:subfield code="c">[ca. 1757]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">Pubd. accordg. to act July 24th, 1772, by MDarly, 39 Strand,</marc:subfield><marc:subfield code="c">[24 July 1772]</marc:subfield>
+<marc:subfield code="a">[Grignan, France],</marc:subfield><marc:subfield code="c">[not after 1790?]</marc:subfield>
+<marc:subfield code="a">[England],</marc:subfield><marc:subfield code="c">[1744]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">Publd. 15 Decr. 1792 by Thos. Cornell, Bruton Street,</marc:subfield><marc:subfield code="c">[15 December 1792]</marc:subfield>
+<marc:subfield code="a">[New York?],</marc:subfield><marc:subfield code="c">[between 1884 and 1890]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">Published 12th May, 1794, by Laurie &amp; Whittle, 53 Fleet Street, London,</marc:subfield><marc:subfield code="c">[12 May 1794]</marc:subfield>
+<marc:subfield code="a">[London] :</marc:subfield><marc:subfield code="b">Pubd. by C. Tilt, Fleet Street,</marc:subfield><marc:subfield code="c">[ca. 1829]</marc:subfield>
+
+
+
+tag = "337",  frequency = 4747
+Average number of words, ignoring <>'s (mean, median, mode) = 2.58, 3, 3
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="b">n</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="b">n</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="b">n</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="b">n</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="b">n</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="b">n</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="b">n</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="b">n</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="b">n</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="b">n</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="b">n</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="b">n</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+<marc:subfield code="a">unmediated</marc:subfield><marc:subfield code="b">n</marc:subfield><marc:subfield code="2">rdamedia</marc:subfield>
+
+
+
+tag = "338",  frequency = 4732
+Average number of words, ignoring <>'s (mean, median, mode) = 2.58, 3.0, 3
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="b">nb</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="b">nb</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="b">nb</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="b">nb</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="b">nb</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="b">nb</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="b">nb</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="b">nb</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="b">nb</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="b">nb</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">sheet</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+<marc:subfield code="a">other</marc:subfield><marc:subfield code="2">rdacarrier</marc:subfield>
+
+
+
+tag = "590",  frequency = 4399
+Average number of words, ignoring <>'s (mean, median, mode) = 23.23, 18, 9
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Temporary local subject terms: Scottish dress -- Love scene -- River -- Highlands.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Mythology: reference to Bacchus -- Male dress, 1796 -- Trades: waiters -- Signs: inn signs.</marc:subfield>
+<marc:subfield code="a">Sheet trimmed within plate mark on all sides.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Politics -- Demons -- Broomsticks -- Allusion to Kenwood House -- William Nash, elected Lord Mayor of London, 1771.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Hats: Little cocked hat, laced -- Halberds -- Tartar scarf -- Ensign on parade.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Perfume -- Hammock -- Beverage.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Interiors: House of Commons -- Mythology: Hercules -- Influence: Lord Bute's influence -- Emblems: Speaker's mace -- Money: bags of money -- Pedestals -- Britannia (Symbolic character)  -- Personifications: Bribery, Corruption and Hypocrisy -- Mythology: Medusa -- Weapons: mace.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: House of Commons -- Bankruptcy -- Robson's Speech, March 4, 1802.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Dr. Samuel Smith, Master of Westminster School.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: The Grand Tour.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Emblems: freemasons -- Cherubs -- Allusion to Francis Rawdon, 1st Marquis of Hastings, 1754-1826.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Dances: Cotillion -- Dancing -- Bath.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Women -- Blacks: black women -- Reference to Divorce Bill, 1800.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Prostitutes -- Female dress, late 1760s? -- Male dress -- Hats: tricorne -- Interiors: room in a brothel -- Furniture: slipcovered armchair -- China: punch bowl -- Glass: wine bottles -- Glass: wine glasses -- Fruits: oranges -- Silverware: ladle -- Watches: wrist watches -- Jewelry: earings.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Dishes: punch bowl decorated with burlesque arms -- Furniture: wall bracket -- Furniture: side table with carved guilt legs -- Food: sugar loaf with pictures of interior of House of Commons -- Constitutions: Pitt's Constitution, 1784 -- Livery companies -- Grocers' Company: freedom of, given to William Pitt on February 14, 1784 --Guns: as punch ladle -- Coalitions: defeat of Fox-North Coalition -- Arms:  burlesque arms of the Grocers' Company -- Bottles -- Dissolution of House of Commons, 25 March, 1784 -- Allusion to  George Temple -- Nugent-Grenville, Marquis of Buckingham, 1753-1813.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms:  Father Time -- Death -- Books: Bible -- Furniture: bookcases -- Canopy bed -- Literature: quotation from Bible, xxiii.10.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Costume: male, female, 1824 -- Brandy -- Bull's horns -- Huge antlers -- Cats -- Crim con -- Cox, Mrs. Charlotte (Newman), fl. 1824 -- Cox, Robert Albion, fl. 1794-1826.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Trades: tailor -- Cuckoldsd -- Aldermen -- Slingsby Bether, 1695-1758, 'Buzzard' -- Sir Robert Ladbroke, 1713-1773 -- Sir William Clavert, ?1703-1761.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Foxes -- Horses -- Elections: Westminster, 1784 -- Elections: Orkney, Scotland, 1784 -- Signs: sign-posts -- Highland dress: tartan -- Sailboats -- Allusion to Kirkwall Borough.</marc:subfield>
+<marc:subfield code="a">Temporary local subject terms: Interiors: Westminster Hall.</marc:subfield>
+
+
+
+tag = "773",  frequency = 1946
+Average number of words, ignoring <>'s (mean, median, mode) = 20.97, 17.0, 16
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="7">p1ka</marc:subfield><marc:subfield code="a">Woodward, G. M. (George Moutard), approximately 1760-1809.</marc:subfield><marc:subfield code="t">Caricature magazine, or, Hudibrastic mirror.</marc:subfield><marc:subfield code="g">V. 4.</marc:subfield><marc:subfield code="w">(OCoLC)78177643</marc:subfield>
+<marc:subfield code="7">p1kc</marc:subfield><marc:subfield code="a">Sayers, James, 1748-1823.</marc:subfield><marc:subfield code="t">Folio album of 144 caricatures.</marc:subfield><marc:subfield code="d">[London], [between 1782 and 1810]</marc:subfield><marc:subfield code="g">Verso of leaf 28.</marc:subfield><marc:subfield code="w">(OCoLC)1083112306</marc:subfield>
+<marc:subfield code="7">p1kc</marc:subfield><marc:subfield code="a">Walpole, Horace, 1717-1797.</marc:subfield><marc:subfield code="t">Drawings and designs by Richd. Bentley ...</marc:subfield><marc:subfield code="d">[Strawberry Hill], [ca. 1760]</marc:subfield><marc:subfield code="w">(CtY-LW) 8936460</marc:subfield>
+<marc:subfield code="a">Hancarville, Pierre d', 1719-1805</marc:subfield><marc:subfield code="t">Antiquités étrusques, grecques, et romaines tirées du cabinet du M. William Hamilton.</marc:subfield><marc:subfield code="d">Naples : [W. Hamilton ; Imprimé a Naples par F. Morelli], MDCCLXVI-MDCCLXVII [1766-1767]</marc:subfield>
+<marc:subfield code="7">p1kc</marc:subfield><marc:subfield code="a">Walpole, Horace, 1717-1797.</marc:subfield><marc:subfield code="t">Drawings and designs by Richd. Bentley ...</marc:subfield><marc:subfield code="d">[Strawberry Hill], [ca. 1760]</marc:subfield><marc:subfield code="w">(CtY-LW) 8936460</marc:subfield>
+<marc:subfield code="7">nnkc</marc:subfield><marc:subfield code="t">Portraits of ladies in mezzotint.</marc:subfield><marc:subfield code="d">[England], [between 1684 and 1799?]</marc:subfield>
+<marc:subfield code="7">p1ka</marc:subfield><marc:subfield code="a">Woodward, G. M. (George Moutard), approximately 1760-1809.</marc:subfield><marc:subfield code="t">Caricature magazine, or, Hudibrastic mirror.</marc:subfield><marc:subfield code="g">V. 2.</marc:subfield><marc:subfield code="w">(OCoLC)78177643</marc:subfield>
+<marc:subfield code="7">p1ka</marc:subfield><marc:subfield code="a">Woodward, G. M. (George Moutard), approximately 1760-1809.</marc:subfield><marc:subfield code="t">Caricature magazine, or, Hudibrastic mirror.</marc:subfield><marc:subfield code="g">V. 1.</marc:subfield><marc:subfield code="w">(OCoLC)78177643</marc:subfield>
+<marc:subfield code="7">p1am</marc:subfield><marc:subfield code="a">Lambert, Joseph, active 1821-1822.</marc:subfield><marc:subfield code="t">Twenty-four views, displaying the Beauties of Yarmouth and its environs.</marc:subfield><marc:subfield code="d">Yarmouth : Printed and sold by W. Meggy, ... [1822?]</marc:subfield><marc:subfield code="w">(OCoLC)ocn561660086</marc:subfield>
+<marc:subfield code="7">nnka</marc:subfield><marc:subfield code="a">Woodward, G. M. (George Moutard), approximately 1760-1809.</marc:subfield><marc:subfield code="t">Caricature magazine, or, Hudibrastic mirror.</marc:subfield><marc:subfield code="g">V. 3.</marc:subfield><marc:subfield code="w">(OCoLC)78177643</marc:subfield>
+<marc:subfield code="7">nnkc</marc:subfield><marc:subfield code="t">Portraits of ladies in mezzotint.</marc:subfield><marc:subfield code="d">[England], [between 1684 and 1799?]</marc:subfield>
+<marc:subfield code="7">p1ka</marc:subfield><marc:subfield code="a">Humphrey, G., 1773-1831?, collector.</marc:subfield><marc:subfield code="t">George Humphrey shop album.</marc:subfield><marc:subfield code="d">[London], [not after 1821]</marc:subfield><marc:subfield code="g">Page 7.</marc:subfield><marc:subfield code="w">(OCoLC)1050146916</marc:subfield>
+<marc:subfield code="7">nnkc</marc:subfield><marc:subfield code="t">Portraits of ladies in mezzotint.</marc:subfield><marc:subfield code="d">[England], [between 1684 and 1799?]</marc:subfield>
+<marc:subfield code="7">p1ka</marc:subfield><marc:subfield code="a">Humphrey, G., 1773-1831?, collector.</marc:subfield><marc:subfield code="t">George Humphrey shop album.</marc:subfield><marc:subfield code="d">[London], [not after 1821]</marc:subfield><marc:subfield code="g">Page 23.</marc:subfield><marc:subfield code="w">(OCoLC)1050146916</marc:subfield>
+<marc:subfield code="7">p1ka</marc:subfield><marc:subfield code="a">Woodward, G. M. (George Moutard), approximately 1760-1809.</marc:subfield><marc:subfield code="t">Caricature magazine, or, Hudibrastic mirror.</marc:subfield><marc:subfield code="g">V. 4.</marc:subfield><marc:subfield code="w">(OCoLC)78177643</marc:subfield>
+<marc:subfield code="7">p1kc</marc:subfield><marc:subfield code="a">Sayers, James, 1748-1823.</marc:subfield><marc:subfield code="t">Folio album of 144 caricatures.</marc:subfield><marc:subfield code="d">[London], [between 1782 and 1810]</marc:subfield><marc:subfield code="g">Leaf 32.</marc:subfield><marc:subfield code="w">(OCoLC)1083112306</marc:subfield>
+<marc:subfield code="7">p1ka</marc:subfield><marc:subfield code="a">Woodward, G. M. (George Moutard), approximately 1760-1809.</marc:subfield><marc:subfield code="t">Caricature magazine, or, Hudibrastic mirror.</marc:subfield><marc:subfield code="g">V. 4.</marc:subfield><marc:subfield code="w">(OCoLC)78177643</marc:subfield>
+<marc:subfield code="7">p1kc</marc:subfield><marc:subfield code="a">Sayers, James, 1748-1823.</marc:subfield><marc:subfield code="t">Folio album of 144 caricatures.</marc:subfield><marc:subfield code="d">[London], [between 1782 and 1810]</marc:subfield><marc:subfield code="g">Leaf 12.</marc:subfield><marc:subfield code="w">(OCoLC)1083112306</marc:subfield>
+<marc:subfield code="7">p1ka</marc:subfield><marc:subfield code="a">Woodward, G. M. (George Moutard), approximately 1760-1809.</marc:subfield><marc:subfield code="t">Caricature magazine, or, Hudibrastic mirror.</marc:subfield><marc:subfield code="g">V. 3.</marc:subfield><marc:subfield code="w">(OCoLC)78177643</marc:subfield>
+<marc:subfield code="7">nnam</marc:subfield><marc:subfield code="t">Microcosm of London.</marc:subfield><marc:subfield code="d">[London] : R. Ackermann's repository of arts, no. 101 Strand, [1808-10]</marc:subfield><marc:subfield code="g">V. 1</marc:subfield><marc:subfield code="w">(OCoLC)702152098</marc:subfield>
+
+
+
+tag = "651",  frequency = 1446
+Average number of words, ignoring <>'s (mean, median, mode) = 5.43, 6.0, 6
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">London (England)</marc:subfield><marc:subfield code="v">Pictorial works</marc:subfield><marc:subfield code="v">Early works to 1800.</marc:subfield>
+<marc:subfield code="a">Surrey (England)</marc:subfield><marc:subfield code="v">Pictorial works.</marc:subfield>
+<marc:subfield code="a">Paris (France)</marc:subfield><marc:subfield code="v">Pictorial works.</marc:subfield>
+<marc:subfield code="a">Blackfriars Bridge (London, England)</marc:subfield>
+<marc:subfield code="a">France</marc:subfield><marc:subfield code="x">History</marc:subfield><marc:subfield code="y">Reign of Terror, 1793-1794.</marc:subfield>
+<marc:subfield code="a">London (England)</marc:subfield><marc:subfield code="v">Pictorial works.</marc:subfield>
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="x">Politics and government</marc:subfield><marc:subfield code="y">1760-1789.</marc:subfield>
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="x">Politics and government</marc:subfield><marc:subfield code="y">1760-1789.</marc:subfield>
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="v">Genealogy.</marc:subfield>
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="x">Politics and government</marc:subfield><marc:subfield code="y">1714-1760</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">London (England)</marc:subfield><marc:subfield code="v">Pictorial works.</marc:subfield>
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="x">Politics and government</marc:subfield><marc:subfield code="y">1760-1789.</marc:subfield>
+<marc:subfield code="a">Covent Garden (London, England)</marc:subfield>
+<marc:subfield code="a">Wapping (London, England)</marc:subfield><marc:subfield code="x">Social life and customs</marc:subfield><marc:subfield code="v">Pictorial works.</marc:subfield>
+<marc:subfield code="a">Gibraltar</marc:subfield><marc:subfield code="x">History</marc:subfield><marc:subfield code="y">Siege, 1779-1783.</marc:subfield>
+<marc:subfield code="a">France</marc:subfield><marc:subfield code="x">History</marc:subfield><marc:subfield code="y">Revolution, 1789-1799</marc:subfield><marc:subfield code="x">Religious aspects.</marc:subfield>
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="x">Politics and government</marc:subfield><marc:subfield code="y">1789-1820.</marc:subfield>
+<marc:subfield code="a">Westminster (London, England)</marc:subfield><marc:subfield code="x">Politics and government.</marc:subfield>
+<marc:subfield code="a">Grassmarket (Edinburgh, Scotland),</marc:subfield><marc:subfield code="e">depicted.</marc:subfield><marc:subfield code="0">http://id.loc.gov/authorities/names/no2015062249</marc:subfield>
+<marc:subfield code="a">Ireland</marc:subfield><marc:subfield code="x">Politics and government</marc:subfield><marc:subfield code="y">1760-1820.</marc:subfield>
+
+
+
+tag = "610",  frequency = 1391
+Average number of words, ignoring <>'s (mean, median, mode) = 5.25, 5, 5
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Strawberry Hill (Twickenham, London, England)</marc:subfield>
+<marc:subfield code="a">Westminster Abbey,</marc:subfield><marc:subfield code="e">depicted.</marc:subfield><marc:subfield code="0">http://id.loc.gov/authorities/names/n80008753</marc:subfield>
+<marc:subfield code="a">Strawberry Hill (Twickenham, London, England)</marc:subfield><marc:subfield code="0">http://id.loc.gov/authorities/subjects/sh87002938</marc:subfield>
+<marc:subfield code="a">Strawberry Hill (Twickenham, London, England)</marc:subfield>
+<marc:subfield code="a">Great Britain.</marc:subfield><marc:subfield code="b">Parliament</marc:subfield><marc:subfield code="x">Elections, 1784.</marc:subfield>
+<marc:subfield code="a">Strawberry Hill (Twickenham, London, England)</marc:subfield><marc:subfield code="x">Art collections.</marc:subfield>
+<marc:subfield code="a">Strawberry Hill (Twickenham, London, England)</marc:subfield>
+<marc:subfield code="a">Strawberry Hill (Twickenham, London, England)</marc:subfield>
+<marc:subfield code="a">Strawberry Hill (Twickenham, London, England)</marc:subfield><marc:subfield code="0">http://id.loc.gov/authorities/subjects/sh87002938</marc:subfield>
+<marc:subfield code="a">Coldbath Fields Prison (London, England)</marc:subfield>
+<marc:subfield code="a">Great Britain.</marc:subfield><marc:subfield code="b">Parliament, 1783-1784.</marc:subfield>
+<marc:subfield code="a">Royal Military Asylum.</marc:subfield>
+<marc:subfield code="a">Royal Exchange (London, England)</marc:subfield>
+<marc:subfield code="a">France.</marc:subfield><marc:subfield code="b">Convention nationale.</marc:subfield>
+<marc:subfield code="a">Fonthill Abbey.</marc:subfield>
+<marc:subfield code="a">Hampton Court (Richmond upon Thames, London, England) in art.</marc:subfield>
+<marc:subfield code="a">Theatre Royal, Drury Lane (London, England)</marc:subfield>
+<marc:subfield code="a">Strawberry Hill (Twickenham, London, England)</marc:subfield>
+<marc:subfield code="a">Strawberry Hill (Twickenham, London, England)</marc:subfield><marc:subfield code="v">Pictorial works.</marc:subfield>
+<marc:subfield code="a">England.</marc:subfield><marc:subfield code="b">Court of Chancery.</marc:subfield>
+
+
+
+tag = "250",  frequency = 1362
+Average number of words, ignoring <>'s (mean, median, mode) = 3.33, 2.0, 2
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">[State lacking plate number, and with beginning of imprint crossed out].</marc:subfield>
+<marc:subfield code="a">[State 6].</marc:subfield>
+<marc:subfield code="a">[Proof before aquatint and lettering].</marc:subfield>
+<marc:subfield code="a">[Proof].</marc:subfield>
+<marc:subfield code="a">[State 3].</marc:subfield>
+<marc:subfield code="a">[State 2].</marc:subfield>
+<marc:subfield code="a">[Trial proof].</marc:subfield>
+<marc:subfield code="a">[State 2, finished proof before letters].</marc:subfield>
+<marc:subfield code="a">[State 3].</marc:subfield>
+<marc:subfield code="a">[State with vol. and plate no.].</marc:subfield>
+<marc:subfield code="a">[2nd state?]</marc:subfield>
+<marc:subfield code="a">[State with plate no. burnished out]</marc:subfield>
+<marc:subfield code="a">[State with volume and plate numbers].</marc:subfield>
+<marc:subfield code="a">[Proof before aquatint and lettering].</marc:subfield>
+<marc:subfield code="a">[State with added punctuation].</marc:subfield>
+<marc:subfield code="a">[State with plate no.].</marc:subfield>
+<marc:subfield code="a">[State before key letters and violin added].</marc:subfield>
+<marc:subfield code="a">[State 2].</marc:subfield>
+<marc:subfield code="a">[1st state.]</marc:subfield>
+<marc:subfield code="a">[Trial proof].</marc:subfield>
+
+
+
+tag = "710",  frequency = 1329
+Average number of words, ignoring <>'s (mean, median, mode) = 4.69, 4, 4
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">John Bowles &amp; Son,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield><marc:subfield code="0">http://id.loc.gov/authorities/names/n2005042315</marc:subfield>
+<marc:subfield code="a">Laurie &amp; Whittle,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Laurie &amp; Whittle,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Sherwood, Jones, and Co.,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">John and Josiah Boydell (Firm),</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">John and Josiah Boydell (Firm),</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Sherwood, Jones, and Co.,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Laurie &amp; Whittle,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Laurie &amp; Whittle,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Ryland &amp; Bryer (Firm),</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Day &amp; Haghe.</marc:subfield>
+<marc:subfield code="a">John and Josiah Boydell (Firm),</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Laurie &amp; Whittle,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">John and Josiah Boydell (Firm),</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Messrs. Fores (Firm),</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Noël Frères,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Messrs. Fores (Firm),</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Society of Antiquaries of London,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Laurie &amp; Whittle,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+<marc:subfield code="a">Bowles &amp; Carver,</marc:subfield><marc:subfield code="e">publisher.</marc:subfield>
+
+
+
+tag = "524",  frequency = 1277
+Average number of words, ignoring <>'s (mean, median, mode) = 13.33, 13, 11
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Adrian Lamb. Wilmarth Sheldon Lewis Lewis and Horace Walpole. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">Paul Sandby, East Front of Strawberry Hill. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">Magellanes, Navigator Espagnol. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">G.P. Harding, Madame la Marquise du Deffand. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">Richard Newton, The Sailor and Long-Back'd Horse]. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">Jean-Henri Müntz, View of Elizabeth Castle in Jersey. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">G.P. Harding, Portrait of a Woman. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">Cherub. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">G.M. Woodward, Union Between England &amp; Ireland. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">Richard Bentley, Small Sketch for a Window in the Holbein Chamber at Strawberry Hill. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">John Carter, Three Lamps in the Tribune, Size of the Originals. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">Unidentified Artist, Black and Yellow Arms with Lions and Fleurs-de-lis. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">John Carter, An Antient Ivory Comb, Size of the Original. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">G.P. Harding, A Gothic Table. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">Romantic Landscape. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">David Edward Cronin, Crown and Scepter. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">John Pearson, Sketchbook of Views, Landscapes, Ruins, Castles, etc. in Yorkshire. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">Lady Diana Beauclerk, Mysterious Mother Act 3d, Scene 3d. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">John Massey Wright, Wright's Illustrations for Rasselas. The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="a">John Carter, Passage to the Gallery and Interior of the Holbein Room at Strawberry Hill. The Lewis Walpole Library, Yale University.</marc:subfield>
+
+
+
+tag = "693",  frequency = 1116
+Average number of words, ignoring <>'s (mean, median, mode) = 4.02, 4.0, 4
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Engelmann, Graf, Coindet and Co.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+<marc:subfield code="a">Riviere &amp; Son</marc:subfield><marc:subfield code="x">Binding.</marc:subfield>
+
+
+
+tag = "561",  frequency = 1101
+Average number of words, ignoring <>'s (mean, median, mode) = 27.22, 28, 30
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Sotheby's 14 July 1924 (Miscellaneous Sale), lot 183 to Spencer. Formerly owned by Kirgate's friend William Bawtree (1744-1824) engraver. Purchased from Spencer, June 1951, £100; ex dono Annie Burr Lewis.</marc:subfield>
+<marc:subfield code="a">Sold at the Waller sale, Christie's, 15 December 1947, lot 24. Bought at the Hely-Hutchinson sale, Sotheby's, lot 263, by Agnew for W.S. Lewis, with sketch of Mrs. Damer, 13 March 1956, £11 for the lot.</marc:subfield>
+<marc:subfield code="a">From the George Cruikshank collection assembled by Edwin Truman (1818-1905); afterwards in the collection of Sir David Lionel Salomons, with his armorial bookplate. Purchased by The Lewis Walpole Library from Ars Libri Ltd., November 2019.</marc:subfield>
+<marc:subfield code="a">Formerly owned by Lindsay Fleming, Aldwick Grange, Bognor Regis, Sussex. Sold at Sotheby's (Lindsay Fleming sale), lot 144, to Pickering &amp; Chatto for W.S. Lewis, 23 March 1972.</marc:subfield>
+<marc:subfield code="a">Suckling; November 1958; Acquisitions no. 958-11-2-7.</marc:subfield>
+<marc:subfield code="a">Purchased from Sotheby's 31 May 1967.</marc:subfield>
+<marc:subfield code="a">Formerly owned by Robert S. Holford and George Holford; volumes sold at Sotheby's, 30 March 1928 (Holford Sale), lot 886, to Quaritch. Sold by Quaritch to W.S. Lewis, August 1939.</marc:subfield>
+<marc:subfield code="a">Purchased by W.S. Lewis in May 1960.</marc:subfield>
+<marc:subfield code="a">Gift of Reed, 1960.</marc:subfield>
+<marc:subfield code="a">Purchased by W.S. Lewis in May 1926 from Spencer in a collection of drawings and designs by Richard Bentley. See A.T. Hazen's Catalogue of Horace Walpole's library, no 3585.</marc:subfield>
+<marc:subfield code="a">From Leverhulme-Auchincloss, vol. xxii.</marc:subfield>
+<marc:subfield code="a">Given by Mrs. Anne Damer to Sir Wathen Waller. Later owned by John Hely-Hutchinson, with his bookplate on verso of first flyleaf of volume. Sold Sotheby's, 14 March 1956 (Hely-Hutchinson Sale), lot 584, to Maggs for W.S. Lewis.</marc:subfield>
+<marc:subfield code="a">Purchased from Lee Errang.</marc:subfield>
+<marc:subfield code="a">Probably from Thomas Kirgate's library, with his (as well as Horace Walpole's) manuscript notes in the volume. Sold at Sotheby's, 12 June 1933 (Miscellaneous Sale), lot 365, to Maggs. Sold by Maggs to W.S. Lewis, August 1933.</marc:subfield>
+<marc:subfield code="a">Sotheby's 14 July 1924 (Miscellaneous Sale), lot 183 to Spencer. Formerly owned by Kirgate's friend William Bawtree (1744-1824) engraver. Purchased from Spencer, June 1951, £100; ex dono Annie Burr Lewis.</marc:subfield>
+<marc:subfield code="a">Sold at Sotheby's 29 April-1 May 1880 (Bull sale), lot 886, to Ellis, £110. Offered by Ellis &amp; White in Catalogue 46, ca. 1881 for £210. Sold at Sotheby's 15(16) June 1920?, lot 243 to Lynch, (C. Constable Curtis of Langford Hall, Newark, Nottinghamshire), £255. Purchased by W.S. Lewis from Mrs. Curtis, of Langford Hall, Newark, Nottinghamshire, August 1937.</marc:subfield>
+<marc:subfield code="a">Purchased from Abbott and Holder, 7 July 1997; Acquisitions no.: 997-7-7-1.</marc:subfield>
+<marc:subfield code="a">Sold at Sotheby's 29 April-1 May 1880 (Bull sale), lot 886, to Ellis, £110. Offered by Ellis &amp; White in Catalogue 46, ca. 1881 for £210. Sold at Sotheby's 15(16) June 1920?, lot 243 to Lynch, (C. Constable Curtis of Langford Hall, Newark, Nottinghamshire), £255. Purchased by W.S. Lewis from Mrs. Curtis, of Langford Hall, Newark, Nottinghamshire, August 1937.</marc:subfield>
+<marc:subfield code="a">Sotheby's 14 July 1924 (Miscellaneous Sale), lot 183 to Spencer. Formerly owned by Kirgate's friend William Bawtree (1744-1824) engraver. Purchased from Spencer, June 1951, £100; ex dono Annie Burr Lewis.</marc:subfield>
+<marc:subfield code="a">Sold at Strawberry Hill Sale, day viii, lot 57, to William Knight, Esq., £4.2.0; London sale number lot 1255 of the 10th day of sale, with the lot number still preserved on spine. Sold by Spencer through Fletcher to W.S. Lewis for £210, May 1926.</marc:subfield>
+
+
+
+tag = "090",  frequency = 780
+Average number of words, ignoring <>'s (mean, median, mode) = 2.67, 3.0, 3
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">66</marc:subfield><marc:subfield code="a">733</marc:subfield><marc:subfield code="a">Al325</marc:subfield>
+<marc:subfield code="a">812.00.00.120</marc:subfield>
+<marc:subfield code="a">66</marc:subfield><marc:subfield code="a">733</marc:subfield><marc:subfield code="a">Al325</marc:subfield>
+<marc:subfield code="a">66</marc:subfield><marc:subfield code="a">726</marc:subfield><marc:subfield code="a">T675</marc:subfield>
+<marc:subfield code="a">812.00.00.108</marc:subfield>
+<marc:subfield code="a">55</marc:subfield><marc:subfield code="a">G25</marc:subfield><marc:subfield code="a">716</marc:subfield>
+<marc:subfield code="a">66</marc:subfield><marc:subfield code="a">726</marc:subfield><marc:subfield code="a">T675</marc:subfield>
+<marc:subfield code="a">66</marc:subfield><marc:subfield code="a">726</marc:subfield><marc:subfield code="a">T675</marc:subfield>
+<marc:subfield code="a">66</marc:subfield><marc:subfield code="a">726</marc:subfield><marc:subfield code="a">T675</marc:subfield>
+<marc:subfield code="a">66</marc:subfield><marc:subfield code="a">726</marc:subfield><marc:subfield code="a">T675</marc:subfield>
+<marc:subfield code="a">64</marc:subfield><marc:subfield code="a">W92</marc:subfield><marc:subfield code="a">796 v.2</marc:subfield>
+<marc:subfield code="a">66</marc:subfield><marc:subfield code="a">726</marc:subfield><marc:subfield code="a">T675</marc:subfield>
+<marc:subfield code="a">66</marc:subfield><marc:subfield code="a">733</marc:subfield><marc:subfield code="a">Al325</marc:subfield>
+<marc:subfield code="a">812.00.00.109</marc:subfield>
+<marc:subfield code="a">Drawer</marc:subfield><marc:subfield code="a">724</marc:subfield><marc:subfield code="a">803B</marc:subfield>
+<marc:subfield code="a">66</marc:subfield><marc:subfield code="a">726</marc:subfield><marc:subfield code="a">T675</marc:subfield>
+<marc:subfield code="a">66</marc:subfield><marc:subfield code="a">726</marc:subfield><marc:subfield code="a">T675</marc:subfield>
+<marc:subfield code="a">66</marc:subfield><marc:subfield code="a">733</marc:subfield><marc:subfield code="a">Al325</marc:subfield>
+<marc:subfield code="a">66</marc:subfield><marc:subfield code="a">726</marc:subfield><marc:subfield code="a">T675</marc:subfield>
+<marc:subfield code="a">Drawer</marc:subfield><marc:subfield code="a">724</marc:subfield><marc:subfield code="a">803B</marc:subfield>
+
+
+
+tag = "740",  frequency = 776
+Average number of words, ignoring <>'s (mean, median, mode) = 5.73, 4.0, 3
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">The pluralist, aided by his patron.</marc:subfield>
+<marc:subfield code="a">Mr. Benjamin Bukskin &amp; his horse performing their evolutions, within the circumference of a circle.</marc:subfield>
+<marc:subfield code="a">Her Majesty's private organist and assistant.</marc:subfield>
+<marc:subfield code="a">A regular paper mill, or, The hereditary Solomons chopping up the Corporation Reform Bill.</marc:subfield>
+<marc:subfield code="a">Marriage a la mode.</marc:subfield><marc:subfield code="n">Plate 1.</marc:subfield>
+<marc:subfield code="a">A law suit lost</marc:subfield>
+<marc:subfield code="a">Purse bearer.</marc:subfield>
+<marc:subfield code="a">Beef eaters.</marc:subfield>
+<marc:subfield code="a">A pretty state of thing's the first night.</marc:subfield>
+<marc:subfield code="a">I say old Chaw-Bacon, what tribe of animal do you call that? Why it be a warmint sir.</marc:subfield>
+<marc:subfield code="a">Its a treat for the dear children and the girl likes a holiday sometimes.</marc:subfield>
+<marc:subfield code="a">A Whig and Tory race, or, The D-l take the hindmost.</marc:subfield>
+<marc:subfield code="a">Illustration to The Battle of the flying dragon and the man of Heaton.</marc:subfield>
+<marc:subfield code="a">A rabbit fancier.</marc:subfield>
+<marc:subfield code="a">Chloe caught napping.</marc:subfield>
+<marc:subfield code="a">William de la Zuche, 1280.</marc:subfield>
+<marc:subfield code="a">Tupman, Pickwick, Snodgrass.</marc:subfield>
+<marc:subfield code="a">Map of Lurgane in the part of Ballysumacha[?] situate in the county of Sligo.  The estate of R. B. Neynoe Esq.</marc:subfield>
+<marc:subfield code="a">Living on wooden legs.</marc:subfield>
+<marc:subfield code="a">Fry'd calfs head.</marc:subfield>
+
+
+
+tag = "041",  frequency = 726
+Average number of words, ignoring <>'s (mean, median, mode) = 1.41, 1.0, 1
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">eng</marc:subfield><marc:subfield code="a">fre</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield><marc:subfield code="a">fre</marc:subfield>
+<marc:subfield code="a">dut</marc:subfield><marc:subfield code="a">fre</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield><marc:subfield code="a">fre</marc:subfield><marc:subfield code="a">ita</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield><marc:subfield code="e">fre</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield><marc:subfield code="a">fre</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield>
+<marc:subfield code="a">eng</marc:subfield>
+
+
+
+tag = "490",  frequency = 712
+Average number of words, ignoring <>'s (mean, median, mode) = 5.7, 6.0, 5
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">The political drama ;</marc:subfield><marc:subfield code="v">no. 92</marc:subfield>
+<marc:subfield code="a">The political drama ;</marc:subfield><marc:subfield code="v">no. 63</marc:subfield>
+<marc:subfield code="a">The political drama ;</marc:subfield><marc:subfield code="v">no. 8</marc:subfield>
+<marc:subfield code="a">The political drama ;</marc:subfield><marc:subfield code="v">no. 4</marc:subfield>
+<marc:subfield code="a">Fears,</marc:subfield><marc:subfield code="v">no. 4</marc:subfield>
+<marc:subfield code="a">Devils at home</marc:subfield>
+<marc:subfield code="a">Cat and dog life,</marc:subfield><marc:subfield code="v">pl. 2</marc:subfield>
+<marc:subfield code="a">The political drama ;</marc:subfield><marc:subfield code="v">no. 18</marc:subfield>
+<marc:subfield code="a">Six different methods of carrying a stick with their effects ;</marc:subfield><marc:subfield code="v">compartment no. 5</marc:subfield>
+<marc:subfield code="a">Street pleasantries ;</marc:subfield><marc:subfield code="v">no. 6</marc:subfield>
+<marc:subfield code="a">Matrimonial comforts ;</marc:subfield><marc:subfield code="v">sketch 8</marc:subfield>
+<marc:subfield code="a">Tegg's caricatures ;</marc:subfield><marc:subfield code="v">no. 53</marc:subfield>
+<marc:subfield code="a">Sketches of character ;</marc:subfield><marc:subfield code="v">no. [...]2.</marc:subfield><marc:subfield code="a">The waiter at a tea garden</marc:subfield>
+<marc:subfield code="a">Bailiffs hunt ;</marc:subfield><marc:subfield code="v">Plate 2</marc:subfield>
+<marc:subfield code="a">French habits ;</marc:subfield><marc:subfield code="v">no. 7</marc:subfield>
+<marc:subfield code="a">The political drama ;</marc:subfield><marc:subfield code="v">no. 60</marc:subfield>
+<marc:subfield code="a">Sporting sketches ;</marc:subfield><marc:subfield code="v">no. 2</marc:subfield>
+<marc:subfield code="a">Hints to bad horsemen ;</marc:subfield><marc:subfield code="v">no. 4</marc:subfield>
+<marc:subfield code="a">Musée grotesque ;</marc:subfield><marc:subfield code="v">no. 49</marc:subfield>
+<marc:subfield code="a">Tegg's caricatures ;</marc:subfield><marc:subfield code="v">no. 47</marc:subfield>
+
+
+
+tag = "585",  frequency = 680
+Average number of words, ignoring <>'s (mean, median, mode) = 21.12, 21.0, 20
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Exhibited: &quot;Making History: Antiquaries in Britain,&quot; at The Yale Center for British Art, Yale University, New Haven, CT, February - May 2012.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Collection Highlights: Prints, Drawings, and Illustrated Books&quot; at The Lewis Walpole Library, Farmington, CT, May - October 2010.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Mrs. Delany and her Circle,&quot; at The Yale Center for British Art, New Haven, CT, September 2009 - January 2010.</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Antiquaries and Connoisseurs in Eighteenth-Century Satiric Prints,&quot; at The Lewis Walpole Library, Farmington, CT, October 2004 - May 2005.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Antiquaries and Conoisseurs in Eighteenth-Century Satiric Prints,&quot; at The Lewis Walpole Library, Farmington, CT, October 2004 - May 2005.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Portraits of Painters: Drawings by George Vertue and Horace Walpole's Anecdotes of Painting in England, Farmington, CT, September 2008 - February 2009.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Lost Treasures of Strawberry Hill&quot; at Strawberry Hill, Twickenham, UK, October 2018-February 2019.</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Bawdy Bodies: Satires of Unruly Women&quot; at The Lewis Walpole Library, Farmington, CT, September 2015 - February 2016.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Works of Genius: Amateur Artists in Walpole's Circle,&quot; at The Lewis Walpole Library, Farmington, CT, September 2009 - March 2010.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Horace Walpole's Strawberry Hill,&quot; at The Victoria &amp; Albert Museum, London, United Kingdom, March - June 2010.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Collection Highlights: Prints, Drawings, and Illustrated Books&quot; at The Lewis Walpole Library, Farmington, CT, May - October 2010.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Steeped in History: The Art of Tea,&quot; at The Fowler Museum, UCLA, CA, August - November 2009.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Horace Walpole's Strawberry Hill,&quot; at The Victoria &amp; Albert Museum, London, United Kingdom, March - June 2010.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Thomas Rowlandson: Pleasures and Pursuits in Georgian England,&quot; at The Frances Lehman Loeb Art Center, Vassar College, Poughkeepsie, NY, August - October 2010.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: London, Royal Academy, 1781 [as by Reynolds].</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;In the Midst of the Jovial Crowd&quot; : Young James Boswell in London, 1762-1763&quot; at The Lewis Walpole Library, Farmington, CT, April - October 2013.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Mastering Light: From the Natural to the Artificial,&quot; at The Frances Lehman Loeb Art Center, Vassar College, April - June 2014.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;James Gillray's Hogarthian Progresses&quot; at The Lewis Walpole Library, Farmington, CT, April 2016 - September 2016.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Horace Walpole and Strawberry Hill,&quot; Orleans House Gallery. Twickenham, England. 9/20/1980-12/7/1980. No. 2.</marc:subfield>
+<marc:subfield code="a">Exhibited: &quot;Portraits of Painters: Drawings by George Vertue and Horace Walpole's Anecdotes of Painting in England&quot; at The Lewis Walpole Library, Farmington, CT, September 2008 - February 2009.</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+
+
+
+tag = "340",  frequency = 414
+Average number of words, ignoring <>'s (mean, median, mode) = 3.95, 2.0, 2
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="b">sheet 11 9/16 x 5 1/4 inches.</marc:subfield>
+<marc:subfield code="a">vellum</marc:subfield><marc:subfield code="c">watercolor.</marc:subfield>
+<marc:subfield code="a">wove paper</marc:subfield><marc:subfield code="g">hand-colored.</marc:subfield>
+<marc:subfield code="a">laid paper.</marc:subfield>
+<marc:subfield code="a">wove paper</marc:subfield><marc:subfield code="g">hand-colored.</marc:subfield>
+<marc:subfield code="a">wove paper.</marc:subfield>
+<marc:subfield code="b">sheet 13 3/16 x 11 15/16 inches.</marc:subfield>
+<marc:subfield code="b">sheet 9 7/16 x 14 3/4 inches.</marc:subfield>
+<marc:subfield code="a">laid paper.</marc:subfield>
+<marc:subfield code="a">laid paper.</marc:subfield>
+<marc:subfield code="a">laid paper.</marc:subfield>
+<marc:subfield code="a">laid paper.</marc:subfield>
+<marc:subfield code="a">rice paper</marc:subfield>
+<marc:subfield code="a">laid paper.</marc:subfield>
+<marc:subfield code="b">8 1/2 x 5 3/16 inches.</marc:subfield>
+<marc:subfield code="a">wove paper.</marc:subfield>
+<marc:subfield code="a">wood engravings.</marc:subfield>
+<marc:subfield code="a">laid paper.</marc:subfield>
+<marc:subfield code="a">wove paper</marc:subfield><marc:subfield code="g">hand-colored.</marc:subfield>
+<marc:subfield code="a">papier mache</marc:subfield><marc:subfield code="g">red color, mounted with gold.</marc:subfield>
+
+
+
+tag = "501",  frequency = 243
+Average number of words, ignoring <>'s (mean, median, mode) = 14.18, 13, 17
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">On same sheet, verso: Principal attendants on the celestial bodies.</marc:subfield>
+<marc:subfield code="a">With: Easter-Monday-to wit. No. 2.</marc:subfield>
+<marc:subfield code="a">On same sheet, verso: The Emperors terrestrial bodices.</marc:subfield>
+<marc:subfield code="a">With: [Profiles of two men in jockey caps] / MDarly fect. 176[2?]. Numbered: '30'.</marc:subfield>
+<marc:subfield code="a">On same sheet, verso: Heralds; Beadle of the Chapel Royal; Choir of the Chapel Royal.</marc:subfield>
+<marc:subfield code="a">On same sheet, recto: The hopes of the party, prior to July 14th ...</marc:subfield>
+<marc:subfield code="a">On same sheet: Tom Smart -- Sam helping his master over ; Job ; Miss Tomkins &amp; boarders ; Miss Tomkins' cook and housemaid ; Mr. Pickwick in the garden -- Count Smorltork ; The Misses Hunter ; Mrs. Pott &amp; Winkle ; Mrs. Hunter reciting The expiring frog ; Mr. Pott ; Tupman, Pickwick, Snodgrass ; Somethingean singers.</marc:subfield>
+<marc:subfield code="a">On same sheet, verso: The Prince of Wale's chief rocker; Women of the bed chamber; Dr. Locork.</marc:subfield>
+<marc:subfield code="a">With: Letterpress explanation in French that includes appropriate texts from the Bible in Dutch and in English.</marc:subfield>
+<marc:subfield code="a">With: A medical marksman / Williams fecit -- A medical bill well paid  / Williams fect. -- A Shropshire bargain, or, The doctor bit / Williams.</marc:subfield>
+<marc:subfield code="a">On same sheet, verso: The council.</marc:subfield>
+<marc:subfield code="a">With: [Multiple profiles of caricatured faces] / MD 1762. No. 44.</marc:subfield>
+<marc:subfield code="a">With: Mouths / MDarly invt. et sculp. 176 according to act.  Numbered: '4'.</marc:subfield>
+<marc:subfield code="a">On same sheet: Apollo.</marc:subfield>
+<marc:subfield code="a">On same sheet: Tom Smart -- Mrs. Bardells mistake ; Sam in his new suit ; Mr. Pott ; Electors -- Sam helping his master over ; Job ; Miss Tomkins &amp; boarders ; Miss Tomkins' cook and housemaid ; Mr. Pickwick in the garden.</marc:subfield>
+<marc:subfield code="a">With: Letterpress explanation in French that includes appropriate texts from the Bible in Dutch and in English.</marc:subfield>
+<marc:subfield code="a">On same sheet: Come I do'nt call that a bad morning's work!!</marc:subfield>
+<marc:subfield code="a">On same sheet, verso: The Arch-Bishop of Cantebury with the baptism water ; Bishops.</marc:subfield>
+<marc:subfield code="a">On same sheet: Blow'd if you a'int cotched Feather's old barrow wot was drownded, he'll be so precious glad.</marc:subfield>
+<marc:subfield code="a">On same sheet: Practical morality, or, a guide to men and manners consisting of Lord Chesterfield's advice to his son &amp;c.  &amp;c.</marc:subfield>
+
+
+
+tag = "562",  frequency = 208
+Average number of words, ignoring <>'s (mean, median, mode) = 17.35, 11.5, 8
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Rebound in red morocco by C. Lewis, with crest of Lord Gosford on the sides. With bookplate of Horace Walpole as Lord Orford, type 1, on half-title. Not in Manuscript Catalogue of 1763. Bookplates of Robert Hoe, and of the Earl of Cromer, 1912.</marc:subfield>
+<marc:subfield code="a">Plate numbered '12' in upper right corner.</marc:subfield>
+<marc:subfield code="a">On laid paper that has been oiled possibly to be translucent for the transfer process. Edges are tattered with old folds in the corners.</marc:subfield>
+<marc:subfield code="a">Inscription in ink, lower right on tab: in posses. Lady Dundonnal.</marc:subfield>
+<marc:subfield code="a">Date inscribed in graphite pencil within image.</marc:subfield>
+<marc:subfield code="a">Graphite pencil inscription on verso of board: View of Derwentwater with an interesting side detail of a penny-farthing bicycle + a large wheeled bicycle with the small wheel in front.</marc:subfield>
+<marc:subfield code="a">Clipping of ms. note in contemporary hand pasted to mount: Moses Kean died a few days since well known for his endeavour in the lounge. 3 Jan [17]93 W.P.</marc:subfield>
+<marc:subfield code="a">Signed by the artist in lower left below image: &quot;C.J. Grant.&quot;</marc:subfield>
+<marc:subfield code="a">Four lines of caption below image: This deviation from simple Admiration, is frequently put in practice at Country Fairs, where some rustic inhabitant of the Village, gazes with astonishment at the hacnied tricks of a Juggler.</marc:subfield>
+<marc:subfield code="a">Caption inscribed above image: Honesty! no more ont-- ven: preserv'd.</marc:subfield>
+<marc:subfield code="a">Signed in ink in lower left: James del.</marc:subfield>
+<marc:subfield code="a">Notes inscribed in black ink below image.</marc:subfield>
+<marc:subfield code="a">Captions inscribed in ink near figures in image.</marc:subfield>
+<marc:subfield code="a">Caption inscribed below image.</marc:subfield>
+<marc:subfield code="a">The title of each drawing is inscribed below.</marc:subfield>
+<marc:subfield code="a">Title inscribed, in ink on mount, in Horace Walpole's hand: Gibson the Dwarf.</marc:subfield>
+<marc:subfield code="a">Caption inscribed on mount in black ink and preceded by numbering: E-47.</marc:subfield>
+<marc:subfield code="a">Not in Manuscript Catalogue of 1763, but recorded in the Description of Strawberry Hill, 1774, among the rare books of prints and drawings in the library.</marc:subfield>
+<marc:subfield code="a">Not in Manuscript Catalogue of 1763, but recorded in the Description of Strawberry Hill, 1774, among the rare books of prints and drawings in the library.</marc:subfield>
+<marc:subfield code="a">Caption inscribed in banner below oval image.</marc:subfield>
+
+
+
+tag = "545",  frequency = 196
+Average number of words, ignoring <>'s (mean, median, mode) = 12.17, 7.0, 5
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Unknown artist.</marc:subfield>
+<marc:subfield code="a">Lady Diana Beauclerk, English artist, 1734-1808.</marc:subfield>
+<marc:subfield code="a">George Perfect Harding, English miniature painter, 1779/80-1853.</marc:subfield>
+<marc:subfield code="a">Sylvester Harding (1745-1809), English, miniature painter, draughtsman, and print publisher.</marc:subfield>
+<marc:subfield code="a">George Perfect Harding, English miniature painter, 1779/80-1853.</marc:subfield>
+<marc:subfield code="a">William Heath, English caricaturist and illustrator, 1795-1840.</marc:subfield>
+<marc:subfield code="a">Unknown artist.</marc:subfield>
+<marc:subfield code="a">Edward Edwards (1738-1806), English artist, associate and teacher of perspective in the Royal Academy, London.</marc:subfield>
+<marc:subfield code="a">George Vertue, English artist, 1684-1756.</marc:subfield>
+<marc:subfield code="a">&quot;Part I [plates I-XII] is the first British book of views executed in aquatint. It will be noticed the first part is dedicated to the Hon. Charles Greville, who was first given details of the aquatint process from J.B. Le Prince, and passed on the information to Sandby. It is extremely doubtful whether any sets of these prints were issued coloured in the early impressions. The plates were used over and over again by printsellers, when the heavy wear and consequent deterioration of the plates covered by issuing them with heavy colouring.&quot;--Abbey.</marc:subfield>
+<marc:subfield code="a">Robert Dighton, English draughtsman, 1752-1814.</marc:subfield>
+<marc:subfield code="a">Thomas Rowlandson, English artist and illustrator.</marc:subfield>
+<marc:subfield code="a">George Vertue, English artist, 1684-1756.</marc:subfield>
+<marc:subfield code="a">Unknown artist.</marc:subfield>
+<marc:subfield code="a">George Cruikshank, English graphic artist, 1792-1878.</marc:subfield>
+<marc:subfield code="a">Unknown artist.</marc:subfield>
+<marc:subfield code="a">William Heath, English caricaturist and illustrator, 1795-1840.</marc:subfield>
+<marc:subfield code="a">Annie Burr Auchincloss Lewis was born in Newport, Rhode Island, on July 22, 1902, the daughter of Emma Jennings Auchincloss and Hugh Dudley Auchincloss. She attended Miss Porter's School in Farmington, Connecticut, and married Wilmarth Sheldon Lewis in New York in 1928. The Lewises resided in Farmington and at Hammersmith Farm in Newport. Annie Lewis died in Hartford, Connecticut, on May 9, 1959.</marc:subfield>
+<marc:subfield code="a">James Gillray, English caricaturist, 1756-1815.</marc:subfield>
+<marc:subfield code="a">Unknown artist.</marc:subfield>
+
+
+
+tag = "752",  frequency = 165
+Average number of words, ignoring <>'s (mean, median, mode) = 3.07, 4, 4
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="b">England</marc:subfield><marc:subfield code="d">London.</marc:subfield>
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="b">England</marc:subfield><marc:subfield code="d">London.</marc:subfield>
+<marc:subfield code="a">England</marc:subfield><marc:subfield code="d">London.</marc:subfield>
+<marc:subfield code="a">England</marc:subfield><marc:subfield code="d">Alnwick.</marc:subfield>
+<marc:subfield code="a">England.</marc:subfield>
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="b">England</marc:subfield><marc:subfield code="d">London.</marc:subfield>
+<marc:subfield code="a">England</marc:subfield><marc:subfield code="d">London.</marc:subfield>
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="b">England</marc:subfield><marc:subfield code="d">London.</marc:subfield>
+<marc:subfield code="a">England</marc:subfield><marc:subfield code="d">Alnwick.</marc:subfield>
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="b">England</marc:subfield><marc:subfield code="d">London.</marc:subfield>
+<marc:subfield code="a">England</marc:subfield><marc:subfield code="d">Alnwick.</marc:subfield>
+<marc:subfield code="a">England.</marc:subfield>
+<marc:subfield code="a">England</marc:subfield><marc:subfield code="d">Alnwick.</marc:subfield>
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="b">England</marc:subfield><marc:subfield code="d">London.</marc:subfield>
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="b">England</marc:subfield><marc:subfield code="d">London.</marc:subfield>
+<marc:subfield code="a">United States</marc:subfield><marc:subfield code="b">Rhode Island</marc:subfield><marc:subfield code="d">Newport.</marc:subfield>
+<marc:subfield code="a">England</marc:subfield><marc:subfield code="d">London.</marc:subfield>
+<marc:subfield code="a">England</marc:subfield><marc:subfield code="d">London.</marc:subfield>
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="b">England</marc:subfield><marc:subfield code="d">London.</marc:subfield>
+<marc:subfield code="a">Great Britain</marc:subfield><marc:subfield code="b">England</marc:subfield><marc:subfield code="d">London.</marc:subfield>
+
+
+
+tag = "534",  frequency = 119
+Average number of words, ignoring <>'s (mean, median, mode) = 29.87, 30, 30
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="p">Original:</marc:subfield><marc:subfield code="a">Heckel, Augustin.</marc:subfield><marc:subfield code="t">Dr. Battys house at Twickenham.</marc:subfield><marc:subfield code="c">1784.</marc:subfield><marc:subfield code="e">1 drawing : pen, ink and gray wash ; 24 x 38.6 cm.</marc:subfield><marc:subfield code="n">In The Lewis Walpole Library, Yale University. Farmington, CT.</marc:subfield>
+<marc:subfield code="p">Original.</marc:subfield><marc:subfield code="a">Edwards, Edward, 1738-1806.</marc:subfield><marc:subfield code="t">[Gate at Strawberry Hill].</marc:subfield><marc:subfield code="c">1 drawing : watercolor ; 19.5 x 17.5 cm.</marc:subfield><marc:subfield code="l">In The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="p">Original drawing:</marc:subfield><marc:subfield code="a">Bentley, R. (Richard), 1708-1782.</marc:subfield><marc:subfield code="t">Headpiece to Ode (on the spring).</marc:subfield><marc:subfield code="c">1753.</marc:subfield><marc:subfield code="e">1 drawing : pen and ink.</marc:subfield><marc:subfield code="l">In The Lewis Walpole Library, Yale University. Farmington, CT (49 3698).</marc:subfield>
+<marc:subfield code="a">After the painting at the Huntington Library, San Marino, CA.</marc:subfield>
+<marc:subfield code="p">Original drawing:</marc:subfield><marc:subfield code="a">Bentley, R. (Richard), 1708-1782.</marc:subfield><marc:subfield code="t">Tailpiece to Ode on a distant prospect of Eton College.</marc:subfield><marc:subfield code="c">1753.</marc:subfield><marc:subfield code="e">1 drawing : pen and ink.</marc:subfield><marc:subfield code="l">In The Lewis Walpole Library, Yale University. Farmington, CT (49 3698).</marc:subfield>
+<marc:subfield code="a">Original drawing held in the Lewis Walpole Library, Yale University. See Lewis Walpole 776.12.16.5dr.</marc:subfield>
+<marc:subfield code="p">Original version:</marc:subfield><marc:subfield code="a">Reynolds, Joshua, artist.</marc:subfield><marc:subfield code="t">The Ladies Waldegrave,</marc:subfield><marc:subfield code="c">1780.</marc:subfield><marc:subfield code="e">1 painting : oil on canvas ; 143.00 x 168.30 cm.</marc:subfield><marc:subfield code="l">In National Galleries Scotland.</marc:subfield>
+<marc:subfield code="p">Original drawing:</marc:subfield><marc:subfield code="a">Edwards, Edward.</marc:subfield><marc:subfield code="t">Chimney piece in the Round Room.</marc:subfield><marc:subfield code="e">1 drawing : watercolour.</marc:subfield><marc:subfield code="l">In The Lewis Walpole Library, Yale University (49 3582).</marc:subfield>
+<marc:subfield code="p">Original:</marc:subfield><marc:subfield code="a">Heckel, Augustin.</marc:subfield><marc:subfield code="t">Dr. Batty's house at Twickenham.</marc:subfield><marc:subfield code="e">1 drawing : pen, ink and gray wash on laid paper ; sheet 24 x 38.6 cm.</marc:subfield><marc:subfield code="l">Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="p">Reproduction of:</marc:subfield><marc:subfield code="t">[The Blue Devils!!],</marc:subfield><marc:subfield code="c">1799?.</marc:subfield><marc:subfield code="l">In The Lewis Walpole Library, Yale University, Farmington, CT.</marc:subfield>
+<marc:subfield code="p">Original drawing:</marc:subfield><marc:subfield code="a">Bentley, R. (Richard), 1708-1782.</marc:subfield><marc:subfield code="t">Headpiece to Hymn to adversity.</marc:subfield><marc:subfield code="c">1753.</marc:subfield><marc:subfield code="e">1 drawing : pen and ink.</marc:subfield><marc:subfield code="l">In The Lewis Walpole Library, Yale University. Farmington, CT (49 3698).</marc:subfield>
+<marc:subfield code="p">Original drawing:</marc:subfield><marc:subfield code="a">Barrow, Joseph Charles.</marc:subfield><marc:subfield code="t">West Front of Strawberry Hill.</marc:subfield><marc:subfield code="c">Twickenham?, 1789.</marc:subfield><marc:subfield code="e">1 drawing : watercolor ; sheet 202 x 173 mm.</marc:subfield><marc:subfield code="l">The Lewis Walpole Library, Yale University.</marc:subfield>
+<marc:subfield code="p">Copy of original etching:</marc:subfield><marc:subfield code="n">by James Bretherton titled</marc:subfield><marc:subfield code="t">Coxheath ho!</marc:subfield><marc:subfield code="c">Publish'd 3d July 1779.</marc:subfield>
+<marc:subfield code="p">Reproduction of:</marc:subfield><marc:subfield code="a">Matrimonial comforts!! A curtain lecture!,</marc:subfield><marc:subfield code="c">1799.</marc:subfield><marc:subfield code="e">1 drawing : pencil ; 29 x 21 cm.</marc:subfield><marc:subfield code="l">In The Lewis Walpole Library, Yale University, Farmington, CT.</marc:subfield>
+<marc:subfield code="p">Original drawing:</marc:subfield><marc:subfield code="a">Bentley, R. (Richard), 1708-1782.</marc:subfield><marc:subfield code="t">Tailpiece to A long story.</marc:subfield><marc:subfield code="c">1753.</marc:subfield><marc:subfield code="e">1 drawing : pen and ink.</marc:subfield><marc:subfield code="l">In The Lewis Walpole Library, Yale University. Farmington, CT (49 3698).</marc:subfield>
+<marc:subfield code="p">Original:</marc:subfield><marc:subfield code="a">Hogarth, William, 1697-1764,</marc:subfield><marc:subfield code="t">Sign for a paviour</marc:subfield><marc:subfield code="e">oil on panel ; 22 x 22 inches (55.9 x 55.9 cm).</marc:subfield><marc:subfield code="l">Yale Center for British Art, Paul Mellon Collection.</marc:subfield><marc:subfield code="o">Accession no.: B1981.25.350.</marc:subfield>
+<marc:subfield code="p">Reproduction of:</marc:subfield><marc:subfield code="t">A bankrupt cart! --or the road to ruin in the east!!</marc:subfield><marc:subfield code="e">1 drawing : pencil with ink ; 23 x 34 cm.</marc:subfield><marc:subfield code="l">In The Lewis Walpole Library, Yale University, Farmington, CT.</marc:subfield>
+<marc:subfield code="p">Original drawing:</marc:subfield><marc:subfield code="a">Nixon, John, -1818.</marc:subfield><marc:subfield code="t">Hospitality kicking avarice out of doors, or, New tenants at a mansion house.</marc:subfield><marc:subfield code="c">[England], [1799]</marc:subfield><marc:subfield code="e">1 drawing : pen and ink and wash on wove paper ; sheet 30.1 x 41.3 cm.</marc:subfield><marc:subfield code="l">In The Lewis Walpole Library, Yale University, Farmington, CT.</marc:subfield>
+<marc:subfield code="p">Original drawing:</marc:subfield><marc:subfield code="a">Bentley, R. (Richard), 1708-1782.</marc:subfield><marc:subfield code="t">Decorated initial &quot;L&quot; to Ode (on the spring).</marc:subfield><marc:subfield code="c">1753.</marc:subfield><marc:subfield code="e">1 drawing : pen and ink.</marc:subfield><marc:subfield code="l">In The Lewis Walpole Library, Yale University. Farmington, CT (49 3698).</marc:subfield>
+<marc:subfield code="p">Reproduction of:</marc:subfield><marc:subfield code="a">Woodward, G. M. (George Moutard), ca. 1760-1809.</marc:subfield><marc:subfield code="t">Compassion!! 14.</marc:subfield><marc:subfield code="c">1800.</marc:subfield><marc:subfield code="e">1 drawing : pencil ; 28 x 25 cm.</marc:subfield><marc:subfield code="l">In The Lewis Walpole Library, Yale University. Farmington, CT.</marc:subfield>
+
+
+
+tag = "830",  frequency = 95
+Average number of words, ignoring <>'s (mean, median, mode) = 7.22, 5, 5
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Musée grotesque.</marc:subfield><marc:subfield code="n">No. 15.</marc:subfield>
+<marc:subfield code="a">The sure water cure ;</marc:subfield><marc:subfield code="v">Plt. VI.</marc:subfield>
+<marc:subfield code="a">Industry and idleness.</marc:subfield><marc:subfield code="n">Plate 2.</marc:subfield>
+<marc:subfield code="a">The sure water cure ;</marc:subfield><marc:subfield code="v">Plt. IX.</marc:subfield>
+<marc:subfield code="a">Brother to the moon's visit to the court of Queen Vic. ;</marc:subfield><marc:subfield code="v">9.</marc:subfield>
+<marc:subfield code="a">Brother to the moon's visit to the court of Queen Vic. ;</marc:subfield><marc:subfield code="v">8.</marc:subfield>
+<marc:subfield code="a">Industry and idleness.</marc:subfield><marc:subfield code="n">Plate 4.</marc:subfield>
+<marc:subfield code="a">Bailiffs hunt ;</marc:subfield><marc:subfield code="v">Plate 3.</marc:subfield>
+<marc:subfield code="a">Cries of London ;</marc:subfield><marc:subfield code="v">no. 6.</marc:subfield>
+<marc:subfield code="a">Happy marriage ;</marc:subfield><marc:subfield code="v">pl. II.</marc:subfield>
+<marc:subfield code="a">Industry and idleness.</marc:subfield><marc:subfield code="n">Plate 11.</marc:subfield>
+<marc:subfield code="a">The brother to the moon's visit to the court of Queen Vic. ;</marc:subfield><marc:subfield code="v">7</marc:subfield>
+<marc:subfield code="a">Industry and idleness.</marc:subfield><marc:subfield code="n">Plate 7.</marc:subfield>
+<marc:subfield code="a">Industry and idleness.</marc:subfield><marc:subfield code="n">Plate 6.</marc:subfield>
+<marc:subfield code="a">Four stages of cruelty.</marc:subfield>
+<marc:subfield code="a">Brother to the moon's visit to the court of Queen Vic. ;</marc:subfield><marc:subfield code="v">1.</marc:subfield>
+<marc:subfield code="a">Brother to the moon's visit to the court of Queen Vic. ;</marc:subfield><marc:subfield code="v">18.</marc:subfield>
+<marc:subfield code="a">Brother to the moon's visit to the court of Queen Vic. ;</marc:subfield><marc:subfield code="v">22.</marc:subfield>
+<marc:subfield code="a">Musée grotesque.</marc:subfield><marc:subfield code="n">No. 49.</marc:subfield>
+<marc:subfield code="a">Brother to the moon's visit to the court of Queen Vic. ;</marc:subfield><marc:subfield code="v">5.</marc:subfield>
+
+
+
+tag = "505",  frequency = 55
+Average number of words, ignoring <>'s (mean, median, mode) = 73.8, 31, 5
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="t">[Drawing of a vase].</marc:subfield><marc:subfield code="g">Note below image, written in pencil in unknown hand, &quot;The vase in long gallery, now in Waddesdon Coll. Brit. Mus, perhaps i Sandby/or his [ ] of long gallery. ms.&quot; Numbered 706 on sheet. --</marc:subfield><marc:subfield code="t">[Drawing of a vase with pedestal].</marc:subfield><marc:subfield code="g">Image numbered 707. --</marc:subfield><marc:subfield code="t">[Drawing of a vase].</marc:subfield><marc:subfield code="g">Image numbered 708. --</marc:subfield><marc:subfield code="t">[Drawing of a trapezoidal urn].</marc:subfield>
+<marc:subfield code="a">[29a]. The dead shall live, the living die : Handel -- [31b]. History / F. Bartolozzi fecit 1792. London : Publish'd May 18th 1793 by T. Tomkins Feller Lane -- [33a] Actaeon -- [35a]. New muscial fund established 1786 / [name illegible] delt. ; J. Milan [?] sculpt. -- [37a]. Flora triumphant -- [38a]. Mrs. Rose's benefit. [40a]. Saeculi felicity / E. Edwards inv. ; F. Bartolozzi sculp -- [40b]. Vicissit temp / E. Edwards inv. ; F. Bartolozzi sculp. -- [41b]. Il Mercurio Italico / Burney delt. ; F. Bartolozzi sculpt. London : Published Jany. 31st 1789 for F. Sastres -- [42]. Regatta-ball at Ranelagh XII Jvne MDCCLXVV / [29a]. The dead shall live, the living die : Handel -- [31b]. History / F. Bartolozzi fecit 1792. London : Publish'd May 18th 1793 by T. Tomkins Feller Lane -- [33a] Actaeon -- [35a]. New muscial fund established 1786 / [name illegible] delt. ; J. Milan [?] sculpt. -- [37a]. Flora triumphant -- [38a]. Mrs. Rose's benefit. [40a]. Saeculi felicity / E. Edwards inv. ; F. Bartolozzi sculp -- [40b]. Vicissit temp / E. Edwards inv. ; F. Bartolozzi sculp. -- [41b]. Il Mercurio Italico / Burney delt. ; F. Bartolozzi sculpt. London : Published Jany. 31st 1789 for F. Sastres.</marc:subfield>
+<marc:subfield code="a">The blue-tail'd fly -- Batchelor's fare, or, Brad and Cheese and kisses -- [...] on slumber my darling -- Lullaby -- The hole in the ballad -- Duet -- Song -- [...] a favorite flash song -- Chorus of Charles --Song of cadgers in the Holy Land -- Brixton in the morning -- A flash parody -- Died -- The full new moon -- The rogue's lamentation -- The hearty good fellow -- A parody on &quot;Come to me when day-light sets&quot; -- The goddess Diana -- A favourite song to the tune of My love was born in Aberdeen -- Parody on The rose-bud of summer -- The Dyet-Street courtship -- Welcome to Brixton.</marc:subfield>
+<marc:subfield code="a">v. 2.  Punch and Judy (t.p., 23 plates) -- Sir Frizzle Pumpkin (8 plates) -- The loving ballad of Lord Bateman (12 plates on 3 sheets) -- Roscoe's Novelist's library (36 undivided plates and 1 single plate on 19 sheets) -- Rookwood (12 undivided plates on 6 sheets) -- Windsor Castle (2 plates) -- Windsor Castle, a new edition (12 plates) -- 2 unnamed India proofs -- Auldjo's Constantinople (7 plates) -- 3 unnamed India proofs -- Peter Schlemihl (8 plates) -- The wife; or Women as they are (4 plates, India proofs).</marc:subfield>
+<marc:subfield code="a">Morning -- Noon -- Evening -- Night.</marc:subfield>
+<marc:subfield code="a">View from the great western entrance -- S.E. view.</marc:subfield>
+<marc:subfield code="a">Wynnstay / H. Bunbury Esqr. del. -- View of the theatre at Wynnstay / I. Evans Esqr. del. -- Wynnstay / H. Bunbury Esqr. del.</marc:subfield>
+<marc:subfield code="t">Democratic innocence --</marc:subfield><marc:subfield code="t">Democratic humility --</marc:subfield><marc:subfield code="t">Democratic gratitude --</marc:subfield><marc:subfield code="t">Democratic religion --</marc:subfield><marc:subfield code="t">Democratic courage --</marc:subfield><marc:subfield code="t">Democratic honor --</marc:subfield><marc:subfield code="t">Democratic glory --</marc:subfield><marc:subfield code="t">Democratic consolations.</marc:subfield>
+<marc:subfield code="a">On same sheet: The chapel and Gunnersbury; Pavillion in the garden at Gunnersbury; Pavillion in the gardens at Gunnersbury.</marc:subfield>
+<marc:subfield code="a">The elevation of the west front -- A section shewing the internal part from north to south -- The general plan.</marc:subfield>
+<marc:subfield code="t">Prints: Passiflora lunuata [i.e. Passiflora biflora]. No. 1.</marc:subfield><marc:subfield code="g">(two hand-colored impressions, one of which is a proof before letters).</marc:subfield><marc:subfield code="t">Euphorbia punicea. No. 3.</marc:subfield><marc:subfield code="g">(hand-colored) -- Portlandia grandiflora. No. 6.</marc:subfield><marc:subfield code="g">(3 impressions) -- Justicia coccinea. No. 8 -- Sisyrinchium striatum. No. 9 -- Hydrangea hortensis. No. 12.</marc:subfield><marc:subfield code="g">(two hand-colored impressions, one uncolored impresssion) -- Pelargonium crithmifolium. No. 13</marc:subfield><marc:subfield code="g">(uncolored) -- Epidendrum tripterum. No. 14.</marc:subfield><marc:subfield code="g">(uncolored) -- Epidendrum Barringtoniae. No. 15 -- Pergularia odoratissima. No. 16. -- Convolvulus speciosus. No. 17.</marc:subfield><marc:subfield code="g">(3 uncolored impressions one of which has been trimmed within plate mark)  -- Antirrhinum reticulatum (two impressions one of which is a proof before letters)</marc:subfield>
+<marc:subfield code="a">Leeds Castle 4 April 1828 -- Hythe 5 Ap. 1828 -- Sandgate 5 Ap. 1828 -- Rye 6 Apr. 1828 -- Pevensey Castle 7 Ap. 1828 -- Tunbridge Wells April 1828 -- St. Albans 11 May 1828 --  High Rocks Tunbridge Wells Sep. 1828 -- Hatfield 1828 -- Bletchingly (16 drawings) -- Nutfield Sept. 16 1829.</marc:subfield>
+<marc:subfield code="a">Morning -- Noon -- Evening -- Night.</marc:subfield>
+<marc:subfield code="a">Tom, Jerry, and Logis at the Tread-Mill -- Half-a-slice of toast -- Catch, for three voices -- Pigs among the roses -- The Corinthian diary -- Lira Lira La -- Buy broom besoms, a very old song -- The fire-shovel -- The wife's answer, from Limbo -- The balls in mourning, or, The downfall of Mr. Gripe the pawnbroker.</marc:subfield>
+<marc:subfield code="a">[1]. For the benefit of Mr. Pacchierotti, King's Theatre Pantheon / F. Bartolozzi R.A. sculps. -- [2]. For the benefit of Mr. Giardini / G.B. Cipriani inv. et delin. ; F. Bartlolozzi sculp. Printed by W. Hinton, St. James Street -- [3]. For the benefit of Made. Banti / Barney delin.; F. Bartolozzi sculps. R.A. 1795 -- [4]. For the benefit of Mr. Banti / F. Bartlolozzi invt. sculpst. 1797 aetatis suae 69 -- [5]. For the benefit of Mr. Giardini : a concert of musick / G. Cipriani inv. ; F. Bartolozzi sculp. -- [6]. For Mr. Didelot's benefit / L. Legoux, pupil of F. Bartolozzi sculpt. -- [7]. Wynnstay Theatre : Venice preserved : The agreeble surprise ... / H. Bunbury inv. ; Walker sculp. Published by J. Sewell, Cornhill, 1786 -- [8]. This ticket will admit one of the Common Council of the City into the Cathedral Church of St. Paul, on Thursday the 23d of April 1789 to attend His Majesty on the solemn occasion of thanksgiving for the happy restoration of his health / Cook invt. et sculp. 1789 -- [9]. Mr. Knyvett's night Friday May 9th 1794 / Tresham inv. ; Fittler sculp. -- [10]. Mr. Fiervilles ball -- [11]. [Hymen in the clouds] -- [12]. [Sir Joshua Reynold's invitation card?] -- [13]. [Sir Foster Cunliffe's bookplate?] -- [14]. [Design for banknote by F. Bartolozzi?].</marc:subfield>
+<marc:subfield code="a">Antique base -- Modern base -- Monkeys tail -- Maidens blush -- Case of ignorance -- Inverted pyramid -- Peep-boh -- Antique capital -- Modern capital -- Ladys attraction.</marc:subfield>
+<marc:subfield code="t">Duke of Clarence's Fancy --</marc:subfield><marc:subfield code="t">The Harriot --</marc:subfield><marc:subfield code="t">Paynes Jigg --</marc:subfield><marc:subfield code="t">Dibdins Fancy --</marc:subfield><marc:subfield code="t">Whim of the Moment --</marc:subfield><marc:subfield code="t">Alexander Dons --</marc:subfield><marc:subfield code="t">Duncan Gray --</marc:subfield><marc:subfield code="t">The Haunted Tower --</marc:subfield><marc:subfield code="t">Waltz --</marc:subfield><marc:subfield code="t">The Birth Day --</marc:subfield><marc:subfield code="t">Kiss me Sweetly --</marc:subfield><marc:subfield code="t">Dreary Dun --</marc:subfield><marc:subfield code="t">Captain McLean --</marc:subfield><marc:subfield code="t">Jem of Aberdeen --</marc:subfield><marc:subfield code="t">Miss Dykes Fancy --</marc:subfield><marc:subfield code="t">The Highland Club --</marc:subfield><marc:subfield code="t">Garthland --</marc:subfield><marc:subfield code="t">The Fife Hunt.</marc:subfield>
+<marc:subfield code="a">[1] Horse soldier, [2] A puff-cart, [3] Rail way shares.</marc:subfield>
+<marc:subfield code="t">Presenting an address --</marc:subfield><marc:subfield code="t">Burrowmongers --</marc:subfield><marc:subfield code="t">Receiving ditto --</marc:subfield><marc:subfield code="t">Strong opposition --</marc:subfield><marc:subfield code="t">A colonial debate --</marc:subfield><marc:subfield code="t">Losing his seat --</marc:subfield><marc:subfield code="t">Chairing --</marc:subfield><marc:subfield code="t">Election favors --</marc:subfield><marc:subfield code="t">Cheeing [sic].</marc:subfield>
+<marc:subfield code="t">Blenheim Palace Oxfordshire --</marc:subfield><marc:subfield code="t">London Bridge --</marc:subfield><marc:subfield code="t">Netley Abbey --</marc:subfield><marc:subfield code="t">King George the Fourth's gateway, Windsor Castle --</marc:subfield><marc:subfield code="t">Ragland Caste --</marc:subfield><marc:subfield code="t">The house at Stratfod on Avon in which Shakespear was born --</marc:subfield><marc:subfield code="t">St. Ethelbert Tower Canterbury --</marc:subfield><marc:subfield code="t">St. Vincents Rocks Clifton.</marc:subfield>
+
+
+
+tag = "581",  frequency = 51
+Average number of words, ignoring <>'s (mean, median, mode) = 24.02, 24, 28
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Image later incorporated into a lithograph by William Henry Hunt: Bribery. Corruption. Printed by C. Hullmandel. London : Pub by R.Ackermann 101 Strand, Aug. 1824</marc:subfield>
+<marc:subfield code="a">Image later incorporated into an etching by Isaac Cruikshank. Six different methods of carrying a stick with their effects. Published by Allen &amp; West ... Aug. 1 1796.</marc:subfield>
+<marc:subfield code="a">Drawing for a plate from: Rowlandson's Loyal volunteers of London &amp; environs, infantry &amp; calvary in their respective uniforms ... London : R. Ackermann, 1799.</marc:subfield>
+<marc:subfield code="a">Published in: American political prints, 1766-1876 / Bernard F. Reilly. Boston : G.K. Hall, 1991, entry 1814-3.</marc:subfield>
+<marc:subfield code="a">Reproduction: Hill, D. Mr. Gillray, the caricaturist, plate 56, page 59.</marc:subfield>
+<marc:subfield code="a">Drawing for plate 1 in John Moore's Zeluco (London : W. McDowall, 1803).</marc:subfield>
+<marc:subfield code="a">Image later published as etching by William Humphrey: The air balloon, or, A trip to the moon. Publish'd 02th [sic] Novr. 1783 by W. Humphrey.</marc:subfield>
+<marc:subfield code="a">Drawing used for Plate IV in the 1803 edition published by Harrison (London).</marc:subfield>
+<marc:subfield code="a">Image later etched by Thomas Rowlandson. Compassion. Pub. 21 Jan. 1800, at R. Ackermann's Repository of the Arts.</marc:subfield>
+<marc:subfield code="a">Image later etched by William Nelson Gardiner. Falstaff at Justice Shallow's mustering his recruits. Published June 1, 1792, by Thos. Macklin, Poets Gallery.</marc:subfield>
+<marc:subfield code="a">Published in: The American Revolution in drawings and prints: a checklist of 1765-1790 graphics in the Library of Congress / compiled by Donald H. Cresswell, with a foreword by Sinclair H. Hitchings. Washington : [For sale by the Supt. of Docs., U.S. Govt. Print. Off.], 1975, no. 111.</marc:subfield>
+<marc:subfield code="a">Image later etched by Thomas Rowlandson: Admiration with astonishment. Pub. 21 Jan. 1800, at R. Ackermann's Repository of the Arts.</marc:subfield>
+<marc:subfield code="a">These drawings were used as the basis of the published engraving: Sr. Thomas More by Jacobus Houbraken, after Hans Holbein the Younger, line engraving published by John &amp; Paul Knapton, published 1741.</marc:subfield>
+<marc:subfield code="a">These drawings were used as the basis of the published engraving: John Campbell, 2nd Duke of Argyll and Greenwich by Jacobus Houbraken, after William Aikman  line engraving, 1735.</marc:subfield>
+<marc:subfield code="a">Image later published as etching: The coffee-house patriots, or, News from St. Eustatia.  Publish'd Octr 15th 1781, by W. Dickinson.</marc:subfield>
+<marc:subfield code="a">Image later engraved by J. Chapman: Jaques discovered by the Duke. London : Published by Thos. Macklin, Poet's Gallery, Fleet Street, Novr. 10, 1795.</marc:subfield>
+<marc:subfield code="a">Image later published as etching. The kitchen of a French post house = La cuisine de la poste. Pubd. accordg. to act of Parlt. Feby. 1st, 1771, by John Harris.</marc:subfield>
+<marc:subfield code="a">Plates from Icones pictae plantarum rariorum descriptionibus et observationibus illustratæ / auctore Jacobo Edvardo Smith. London : Printed for the author by J. Davis ..., 1790-93.</marc:subfield>
+<marc:subfield code="a">Drawing for plate 3 in John Moore's Zeluco (London, W. McDowall, 1803).</marc:subfield>
+<marc:subfield code="a">Image later incorporated into an etching by Isaac Cruikshank. Six different methods of carrying a stick with their effects. Published by Allen &amp; West ... Aug. 1 1796.</marc:subfield>
+
+
+
+tag = "690",  frequency = 50
+Average number of words, ignoring <>'s (mean, median, mode) = 2.66, 3.0, 3
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Chron.</marc:subfield><marc:subfield code="y">1775.</marc:subfield>
+<marc:subfield code="a">Etching</marc:subfield><marc:subfield code="x">Specimens</marc:subfield><marc:subfield code="y">1782.</marc:subfield>
+<marc:subfield code="a">Engraving</marc:subfield><marc:subfield code="x">Specimens</marc:subfield><marc:subfield code="y">1775.</marc:subfield>
+<marc:subfield code="a">Chron.</marc:subfield><marc:subfield code="y">1775.</marc:subfield>
+<marc:subfield code="a">Brit tracts</marc:subfield><marc:subfield code="y">1746.</marc:subfield>
+<marc:subfield code="a">Engraving</marc:subfield><marc:subfield code="x">Specimens</marc:subfield><marc:subfield code="y">1775.</marc:subfield>
+<marc:subfield code="a">Engraving</marc:subfield><marc:subfield code="x">Specimens</marc:subfield><marc:subfield code="y">1790-1810.</marc:subfield>
+<marc:subfield code="a">Etching</marc:subfield><marc:subfield code="x">Specimens</marc:subfield><marc:subfield code="y">1775.</marc:subfield>
+<marc:subfield code="a">Brit tracts</marc:subfield><marc:subfield code="y">1852.</marc:subfield>
+<marc:subfield code="a">Etching</marc:subfield><marc:subfield code="x">Specimens</marc:subfield><marc:subfield code="y">1775.</marc:subfield>
+<marc:subfield code="a">Brit tracts</marc:subfield><marc:subfield code="y">1741.</marc:subfield>
+<marc:subfield code="a">Chron.</marc:subfield><marc:subfield code="y">1775.</marc:subfield>
+<marc:subfield code="a">Engraving</marc:subfield><marc:subfield code="x">Specimens</marc:subfield><marc:subfield code="y">1775.</marc:subfield>
+<marc:subfield code="a">Chron.</marc:subfield><marc:subfield code="y">1811.</marc:subfield>
+<marc:subfield code="a">Etching</marc:subfield><marc:subfield code="x">Specimens</marc:subfield><marc:subfield code="y">1775.</marc:subfield>
+<marc:subfield code="a">Engraving</marc:subfield><marc:subfield code="x">Specimens</marc:subfield><marc:subfield code="y">1775.</marc:subfield>
+<marc:subfield code="a">Chron.</marc:subfield><marc:subfield code="y">1775.</marc:subfield>
+<marc:subfield code="a">Etching</marc:subfield><marc:subfield code="x">Specimens</marc:subfield><marc:subfield code="y">1775.</marc:subfield>
+<marc:subfield code="a">Chron.</marc:subfield><marc:subfield code="y">1775.</marc:subfield>
+<marc:subfield code="a">Chron.</marc:subfield><marc:subfield code="y">1775.</marc:subfield>
+
+
+
+tag = "049",  frequency = 38
+Average number of words, ignoring <>'s (mean, median, mode) = 1.11, 1.0, 1
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">YUSS</marc:subfield>
+<marc:subfield code="a">YUSS</marc:subfield>
+<marc:subfield code="a">YUSS</marc:subfield>
+<marc:subfield code="a">YUSS</marc:subfield>
+<marc:subfield code="a">[Folio]YU3W</marc:subfield>
+<marc:subfield code="a">YU3W</marc:subfield>
+<marc:subfield code="a">YUSS</marc:subfield>
+<marc:subfield code="a">[Folio]YU3W</marc:subfield>
+<marc:subfield code="a">YUSS</marc:subfield>
+<marc:subfield code="a">YU3W</marc:subfield>
+<marc:subfield code="a">[4to.]YU3W</marc:subfield>
+<marc:subfield code="a">YUSS</marc:subfield>
+<marc:subfield code="a">[4to.]YU3W</marc:subfield><marc:subfield code="v">1-2</marc:subfield>
+<marc:subfield code="a">[Folio]YU3W</marc:subfield>
+<marc:subfield code="a">YU3W</marc:subfield>
+<marc:subfield code="a">YUSS</marc:subfield>
+<marc:subfield code="a">YU3W</marc:subfield>
+<marc:subfield code="a">[Folio]YU3W</marc:subfield>
+<marc:subfield code="a">YUSS</marc:subfield>
+<marc:subfield code="a">YUSS</marc:subfield>
+
+
+
+tag = "541",  frequency = 33
+Average number of words, ignoring <>'s (mean, median, mode) = 6.82, 6, 3
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Purchased from Sotheby's 31 May 1967.</marc:subfield>
+<marc:subfield code="a">Purchased from Parsons by W.S. Lewis, October 1929.</marc:subfield>
+<marc:subfield code="a">Purchased from Sotheby's, 31 May 1967.</marc:subfield>
+<marc:subfield code="a">Purchased from E.C. Buddy III;</marc:subfield><marc:subfield code="d">February, 1946.</marc:subfield>
+<marc:subfield code="a">Purchased by W.S. Lewis in May 1926 from Spencer in a collection of drawings and designs by Richard Bentley. See A.T. Hazen's Catalogue of Horace Walpole's library, no 3585.</marc:subfield>
+<marc:subfield code="a">Leverhulme-Auchincloss, vol. vii.</marc:subfield>
+<marc:subfield code="a">Acquired before 1938.</marc:subfield>
+<marc:subfield code="a">Reed, Joseph W.</marc:subfield>
+<marc:subfield code="a">Purchased from Abbott and Holder, July 2016.</marc:subfield>
+<marc:subfield code="a">Purchased from Alan Cuthbatson.</marc:subfield>
+<marc:subfield code="a">L. Reed ;</marc:subfield><marc:subfield code="d">June, 1960.</marc:subfield>
+<marc:subfield code="a">Purchased from Abbott and Holder, July 2016.</marc:subfield>
+<marc:subfield code="a">Purchased from Bernard Quartich, Ltd. March 2007. Unknown provenance.</marc:subfield>
+<marc:subfield code="a">Reed.</marc:subfield>
+<marc:subfield code="a">Francis Watson ;</marc:subfield><marc:subfield code="d">April, 1929.</marc:subfield>
+<marc:subfield code="a">Ex dono James T. Babb; January 1963; Acquisitions no.: 963-1-1-105.</marc:subfield>
+<marc:subfield code="a">Ex dono James T. Babb; January 1963; Acquisitions no.: 963-1-1-114.</marc:subfield>
+<marc:subfield code="a">Stevens &amp; Brown, catalog 23, lot 491;</marc:subfield><marc:subfield code="d">October 1959.</marc:subfield>
+<marc:subfield code="a">Leverhulme-Auchincloss, vol. iv.</marc:subfield>
+<marc:subfield code="a">From Strawberry Hill cat., Hesper[?];</marc:subfield><marc:subfield code="d">January, 1933.</marc:subfield>
+
+
+
+tag = "110",  frequency = 32
+Average number of words, ignoring <>'s (mean, median, mode) = 4.53, 4.0, 4
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Worshipful Company of Painters.</marc:subfield><marc:subfield code="0">http://id.loc.gov/authorities/names/no2004013625</marc:subfield>
+<marc:subfield code="a">Derby Porcelain Manufactory.</marc:subfield>
+<marc:subfield code="a">Watson &amp; Dickinson,</marc:subfield><marc:subfield code="e">printmakers.</marc:subfield>
+<marc:subfield code="a">Patrons of the Anniversary of the Charity-Schools (Society)</marc:subfield><marc:subfield code="0">http://id.loc.gov/authorities/names/no90004017</marc:subfield>
+<marc:subfield code="a">J. Boosey &amp; Co.,</marc:subfield><marc:subfield code="e">lithographer.</marc:subfield>
+<marc:subfield code="a">Ives, Diall's &amp; Co.</marc:subfield>
+<marc:subfield code="a">N. Chater &amp; Co.,</marc:subfield><marc:subfield code="e">lithographer.</marc:subfield>
+<marc:subfield code="a">Masefield's Warehouse.</marc:subfield>
+<marc:subfield code="a">Watson &amp; Dickinson,</marc:subfield><marc:subfield code="e">printmakers.</marc:subfield>
+<marc:subfield code="a">Corbould &amp; Jeffreys,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield>
+<marc:subfield code="a">Dean &amp; Munday,</marc:subfield><marc:subfield code="e">printmaker.</marc:subfield><marc:subfield code="0">http://id.loc.gov/authorities/names/no2006102781</marc:subfield>
+<marc:subfield code="a">Watson &amp; Dickinson,</marc:subfield><marc:subfield code="e">printmakers.</marc:subfield>
+<marc:subfield code="a">Watson &amp; Dickinson,</marc:subfield><marc:subfield code="e">printmakers.</marc:subfield>
+<marc:subfield code="a">Watson &amp; Dickinson,</marc:subfield><marc:subfield code="e">printmakers.</marc:subfield>
+<marc:subfield code="a">Watson &amp; Dickinson,</marc:subfield><marc:subfield code="e">printmakers.</marc:subfield>
+<marc:subfield code="a">United States.</marc:subfield><marc:subfield code="b">Naval History Division.</marc:subfield>
+<marc:subfield code="a">Lewis Walpole Library,</marc:subfield><marc:subfield code="e">collector.</marc:subfield>
+<marc:subfield code="a">Saint Giles without Cripplegate Parish Church (London, England)</marc:subfield>
+<marc:subfield code="a">Order of the Garter.</marc:subfield>
+<marc:subfield code="a">N. Chater &amp; Co.,</marc:subfield><marc:subfield code="e">lithographer.</marc:subfield>
+
+
+
+tag = "630",  frequency = 30
+Average number of words, ignoring <>'s (mean, median, mode) = 3.43, 4.0, 4
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Odyssey.</marc:subfield>
+<marc:subfield code="a">Treaty of Paris</marc:subfield><marc:subfield code="d">(1763)</marc:subfield>
+<marc:subfield code="a">Anti-Jacobin Review and Magazine.</marc:subfield>
+<marc:subfield code="a">Treaty of Paris</marc:subfield><marc:subfield code="d">(1763)</marc:subfield>
+<marc:subfield code="a">Treaty of Paris</marc:subfield><marc:subfield code="d">(1763)</marc:subfield>
+<marc:subfield code="a">Treaty of Paris</marc:subfield><marc:subfield code="d">(1763)</marc:subfield>
+<marc:subfield code="a">Walpole family.</marc:subfield>
+<marc:subfield code="a">Treaty of Paris</marc:subfield><marc:subfield code="d">(1763)</marc:subfield>
+<marc:subfield code="a">Treaty of Paris</marc:subfield><marc:subfield code="d">(1763)</marc:subfield>
+<marc:subfield code="a">Quebec act, 1774.</marc:subfield>
+<marc:subfield code="a">Baron Munchausen's narrative of his marvellous travels.</marc:subfield>
+<marc:subfield code="a">Treaty of Paris</marc:subfield><marc:subfield code="d">(1763)</marc:subfield>
+<marc:subfield code="a">Treaty of Paris</marc:subfield><marc:subfield code="d">(1763)</marc:subfield>
+<marc:subfield code="a">Arabian nights</marc:subfield><marc:subfield code="x">Illustrations.</marc:subfield>
+<marc:subfield code="a">Walpole family.</marc:subfield>
+<marc:subfield code="a">Qurʼan.</marc:subfield>
+<marc:subfield code="a">Treaty of Paris</marc:subfield><marc:subfield code="d">(1763)</marc:subfield>
+<marc:subfield code="a">North Briton.</marc:subfield>
+<marc:subfield code="a">Qurʼan.</marc:subfield>
+<marc:subfield code="a">Cupid and Psyche (Tale) in art.</marc:subfield>
+
+
+
+tag = "852",  frequency = 29
+Average number of words, ignoring <>'s (mean, median, mode) = 8.48, 8, 8
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT.</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT.</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT.</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library,</marc:subfield><marc:subfield code="b">Yale University Library,</marc:subfield><marc:subfield code="e">P.O. Box 1408, Farmington, CT 06034.</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT.</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT.</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT.</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library,</marc:subfield><marc:subfield code="b">Yale University Library,</marc:subfield><marc:subfield code="e">P.O. Box 1408, Farmington, CT 06034.</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT.</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT.</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT.</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library, Yale University, Farmington, CT</marc:subfield>
+
+
+
+tag = "546",  frequency = 23
+Average number of words, ignoring <>'s (mean, median, mode) = 4.61, 4, 2
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Title in Chinese precedes romanized title.</marc:subfield>
+<marc:subfield code="a">In English.</marc:subfield>
+<marc:subfield code="a">Mostly in English; some Italian, Latin, and French.</marc:subfield>
+<marc:subfield code="a">In English.</marc:subfield>
+<marc:subfield code="a">In English.</marc:subfield>
+<marc:subfield code="a">In French and English, with some Latin.</marc:subfield>
+<marc:subfield code="a">In English and Latin.</marc:subfield>
+<marc:subfield code="a">In English; some German and Italian.</marc:subfield>
+<marc:subfield code="a">Title-pages and captions in English, French, and Italian; the second t.-p. is not dated.</marc:subfield>
+<marc:subfield code="a">In English.</marc:subfield>
+<marc:subfield code="a">Title in English and French.</marc:subfield>
+<marc:subfield code="a">Title devised by cataloger.</marc:subfield>
+<marc:subfield code="a">In English.</marc:subfield>
+<marc:subfield code="a">In English.</marc:subfield>
+<marc:subfield code="a">Engraved title-page includes text in English and French.</marc:subfield>
+<marc:subfield code="a">In English.</marc:subfield>
+<marc:subfield code="a">In English, some Latin.</marc:subfield>
+<marc:subfield code="a">In English.</marc:subfield>
+<marc:subfield code="a">In English.</marc:subfield>
+<marc:subfield code="a">In English.</marc:subfield>
+
+
+
+tag = "024",  frequency = 20
+Average number of words, ignoring <>'s (mean, median, mode) = 2.2, 1.5, 1
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">PML 9313.21</marc:subfield>
+<marc:subfield code="a">1986.691</marc:subfield>
+<marc:subfield code="a">1986.744</marc:subfield>
+<marc:subfield code="a">1986.689</marc:subfield>
+<marc:subfield code="a">Peel 0337</marc:subfield><marc:subfield code="z">Peel II, 182</marc:subfield>
+<marc:subfield code="a">1986.686</marc:subfield>
+<marc:subfield code="a">1986.685</marc:subfield>
+<marc:subfield code="a">1986.684</marc:subfield>
+<marc:subfield code="a">1986.688</marc:subfield>
+<marc:subfield code="a">Peel 1585</marc:subfield><marc:subfield code="z">Peel VI, 024</marc:subfield>
+<marc:subfield code="a">PML 84438</marc:subfield>
+<marc:subfield code="z">Peel VII, 34</marc:subfield>
+<marc:subfield code="z">Peel IX, 96</marc:subfield>
+<marc:subfield code="a">1986.687</marc:subfield>
+<marc:subfield code="a">PML 145850.224</marc:subfield>
+<marc:subfield code="a">1986.677</marc:subfield>
+<marc:subfield code="a">MA 755.52</marc:subfield>
+<marc:subfield code="a">Peel 0826</marc:subfield><marc:subfield code="z">Peel IV, 32</marc:subfield>
+<marc:subfield code="a">1986.692</marc:subfield>
+<marc:subfield code="a">Peel 0205</marc:subfield><marc:subfield code="z">Peel II, 43</marc:subfield>
+
+
+
+tag = "948",  frequency = 15
+Average number of words, ignoring <>'s (mean, median, mode) = 1.6, 1, 1
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">RECON</marc:subfield>
+<marc:subfield code="a">RECON</marc:subfield>
+<marc:subfield code="a">RLA Beinecke Recon</marc:subfield>
+<marc:subfield code="a">RECON</marc:subfield>
+<marc:subfield code="a">eze</marc:subfield>
+<marc:subfield code="a">BEIN : 650 chron added, mmf</marc:subfield>
+<marc:subfield code="a">RECON</marc:subfield>
+<marc:subfield code="a">RECON</marc:subfield>
+<marc:subfield code="a">RECON</marc:subfield>
+<marc:subfield code="a">RLA Beinecke Recon</marc:subfield>
+<marc:subfield code="a">eze</marc:subfield>
+<marc:subfield code="a">RECON</marc:subfield>
+<marc:subfield code="a">eze</marc:subfield>
+<marc:subfield code="a">RECON</marc:subfield>
+<marc:subfield code="a">eze</marc:subfield>
+
+
+
+tag = "928",  frequency = 14
+Average number of words, ignoring <>'s (mean, median, mode) = 1, 1.0, 1
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">AC042999</marc:subfield>
+<marc:subfield code="a">AC031197</marc:subfield>
+<marc:subfield code="a">AC042999</marc:subfield>
+<marc:subfield code="a">AC042999</marc:subfield>
+<marc:subfield code="a">AC042999</marc:subfield>
+<marc:subfield code="a">AC031397</marc:subfield>
+<marc:subfield code="a">actape</marc:subfield>
+<marc:subfield code="a">actape</marc:subfield>
+<marc:subfield code="a">AC042999</marc:subfield>
+<marc:subfield code="a">actape</marc:subfield>
+<marc:subfield code="a">actape</marc:subfield>
+<marc:subfield code="a">AC042999</marc:subfield>
+<marc:subfield code="a">AC031397</marc:subfield>
+<marc:subfield code="a">AC042999</marc:subfield>
+
+
+
+tag = "010",  frequency = 13
+Average number of words, ignoring <>'s (mean, median, mode) = 1, 1, 1
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">  2006688957</marc:subfield>
+<marc:subfield code="a">  2002708985</marc:subfield>
+<marc:subfield code="a">   74692104 </marc:subfield>
+<marc:subfield code="a">   74692134 </marc:subfield>
+<marc:subfield code="a">   95501625 </marc:subfield>
+<marc:subfield code="a">   74692129 </marc:subfield>
+<marc:subfield code="a">  2006676853</marc:subfield>
+<marc:subfield code="a">  2004672695</marc:subfield>
+<marc:subfield code="a">   99405979 </marc:subfield>
+<marc:subfield code="a">  2010643172</marc:subfield>
+<marc:subfield code="a">   96523143 </marc:subfield>
+<marc:subfield code="a">  2013646663</marc:subfield>
+<marc:subfield code="a">   91727495 </marc:subfield>
+
+
+
+tag = "050",  frequency = 12
+Average number of words, ignoring <>'s (mean, median, mode) = 3.75, 3.0, 3
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">PC5 - 1804.1</marc:subfield>
+<marc:subfield code="a">PC 1 - 4422</marc:subfield>
+<marc:subfield code="a">E271.U582</marc:subfield>
+<marc:subfield code="a">G3774.N4 1777</marc:subfield><marc:subfield code="b">.B5</marc:subfield>
+<marc:subfield code="a">PC1 - 13194</marc:subfield>
+<marc:subfield code="a">NC1479.H43</marc:subfield><marc:subfield code="b">M36 1820</marc:subfield>
+<marc:subfield code="a">PC 1 - 10244</marc:subfield>
+<marc:subfield code="a">G3772.N3 1777</marc:subfield><marc:subfield code="b">.B5</marc:subfield>
+<marc:subfield code="a">PC3 - 1755 - Sceene of sceenes</marc:subfield>
+<marc:subfield code="a">G3884.Y6S3 1781</marc:subfield><marc:subfield code="b">.R4</marc:subfield>
+<marc:subfield code="a">PC1 - 13207 (b &amp; w print)</marc:subfield>
+<marc:subfield code="a">PC 1 - 3868</marc:subfield>
+
+
+
+tag = "580",  frequency = 8
+Average number of words, ignoring <>'s (mean, median, mode) = 20.38, 23.0, 9
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">The Lewis Walpole Library: From the Topographical Prints collection.</marc:subfield>
+<marc:subfield code="a">Drawing used as the basis of the engraving by Granger for the 1803 edition of Castle of Otranto published by Harrison and Co.  Plate III opposite p. 87.</marc:subfield>
+<marc:subfield code="a">Drawing used as the basis of the engraving by Granger for the 1803 edition of Castle of Otranto published by Harrison and Co.  Plate II opposite p. 54.</marc:subfield>
+<marc:subfield code="a">Accompanied by Lord Eldon's notebook (LWL Mss Vol. 202) in which he comments on the caricatures.</marc:subfield>
+<marc:subfield code="a">The Lewis Walpole Library: From the Topographical Prints collection.</marc:subfield>
+<marc:subfield code="a">An title index to these three volumes in George Steeven's hand, acquired separately.  See Lewis Walpole Library call number: LWL Mss File 122.</marc:subfield>
+<marc:subfield code="a">Drawing used as the basis of the engraving by Granger for the 1803 edition of Castle of Otranto published by Harrison and Co.  Plate I opposite t.p.</marc:subfield>
+<marc:subfield code="a">BEIN GEN MSS 1387: Forms part of the W. J. Linton collection. For a full description of the collection, search by call number.</marc:subfield>
+
+
+
+tag = "506",  frequency = 8
+Average number of words, ignoring <>'s (mean, median, mode) = 6.25, 6.0, 6
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">This collection is open for research.</marc:subfield>
+<marc:subfield code="a">This collection is open for research.</marc:subfield>
+<marc:subfield code="a">This material is available for research.</marc:subfield>
+<marc:subfield code="a">Restricted: Material extremely fragile;</marc:subfield><marc:subfield code="c">Consult curator for permission.</marc:subfield>
+<marc:subfield code="a">This material is available for research.</marc:subfield>
+<marc:subfield code="a">This material is available for research.</marc:subfield>
+<marc:subfield code="a">This material is available for research.</marc:subfield>
+<marc:subfield code="a">This material is open for research.</marc:subfield>
+
+
+
+tag = "240",  frequency = 7
+Average number of words, ignoring <>'s (mean, median, mode) = 4.29, 4, 4
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Punishment inflicted on Lemuel Gulliver</marc:subfield>
+<marc:subfield code="a">Harlot's progress.</marc:subfield><marc:subfield code="n">Plate 5</marc:subfield>
+<marc:subfield code="a">Harlot's progress.</marc:subfield><marc:subfield code="n">Plate 2</marc:subfield>
+<marc:subfield code="a">Harlot's progress.</marc:subfield><marc:subfield code="n">Plate 5</marc:subfield>
+<marc:subfield code="a">Oddities.</marc:subfield><marc:subfield code="k">Song</marc:subfield>
+<marc:subfield code="a">Harlot's progress.</marc:subfield><marc:subfield code="n">Plate 2</marc:subfield>
+<marc:subfield code="a">Modèles de voitures bourgeoises à la française</marc:subfield>
+
+
+
+tag = "052",  frequency = 7
+Average number of words, ignoring <>'s (mean, median, mode) = 1.71, 2, 2
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">3771</marc:subfield>
+<marc:subfield code="a">3701</marc:subfield>
+<marc:subfield code="a">912.429</marc:subfield><marc:subfield code="2">ddc</marc:subfield>
+<marc:subfield code="a">912.421</marc:subfield><marc:subfield code="2">ddc</marc:subfield>
+<marc:subfield code="a">3774</marc:subfield><marc:subfield code="b">N4</marc:subfield>
+<marc:subfield code="a">3884</marc:subfield><marc:subfield code="b">Y6</marc:subfield>
+<marc:subfield code="a">3772</marc:subfield><marc:subfield code="b">N3</marc:subfield>
+
+
+
+tag = "016",  frequency = 7
+Average number of words, ignoring <>'s (mean, median, mode) = 2, 2, 2
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">000979838</marc:subfield><marc:subfield code="2">Uk</marc:subfield>
+<marc:subfield code="a">016888010</marc:subfield><marc:subfield code="2">Uk</marc:subfield>
+<marc:subfield code="a">004880821</marc:subfield><marc:subfield code="2">Uk</marc:subfield>
+<marc:subfield code="a">016888774</marc:subfield><marc:subfield code="2">Uk</marc:subfield>
+<marc:subfield code="a">004880520</marc:subfield><marc:subfield code="2">Uk</marc:subfield>
+<marc:subfield code="a">004880307</marc:subfield><marc:subfield code="2">Uk</marc:subfield>
+<marc:subfield code="a">017848951</marc:subfield><marc:subfield code="2">Uk</marc:subfield>
+
+
+
+tag = "037",  frequency = 7
+Average number of words, ignoring <>'s (mean, median, mode) = 6.57, 6, 6
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">LC-USZ62-45564</marc:subfield><marc:subfield code="b">DLC</marc:subfield><marc:subfield code="c">(b&amp;w film copy neg.)</marc:subfield>
+<marc:subfield code="a">LC-USZ62-137504</marc:subfield><marc:subfield code="b">DLC</marc:subfield><marc:subfield code="c">(b &amp; w film copy neg.)</marc:subfield>
+<marc:subfield code="a">LC-USZ62-1504</marc:subfield><marc:subfield code="b">DLC</marc:subfield><marc:subfield code="c">(b&amp;w film copy neg. of detail)</marc:subfield>
+<marc:subfield code="a">LC-USZC4-8794</marc:subfield><marc:subfield code="b">DLC</marc:subfield><marc:subfield code="c">(color film copy transparency)</marc:subfield>
+<marc:subfield code="a">LC-USZ62-102370</marc:subfield><marc:subfield code="b">DLC</marc:subfield><marc:subfield code="c">(b&amp;w film copy neg.)</marc:subfield>
+<marc:subfield code="a">LC-USZC4-6860</marc:subfield><marc:subfield code="b">DLC</marc:subfield><marc:subfield code="c">(color film copy transparency)</marc:subfield>
+<marc:subfield code="a">LC-USZ62-112486</marc:subfield><marc:subfield code="b">DLC</marc:subfield><marc:subfield code="c">(b&amp;w film copy neg.)</marc:subfield>
+
+
+
+tag = "555",  frequency = 5
+Average number of words, ignoring <>'s (mean, median, mode) = 4.6, 5, 5
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Finding aid available in repository.</marc:subfield>
+<marc:subfield code="a">Finding aid available.</marc:subfield>
+<marc:subfield code="a">Finding aid available in repository.</marc:subfield>
+<marc:subfield code="a">Finding aid available in repository.</marc:subfield>
+<marc:subfield code="a">Card catalog available in repository.</marc:subfield>
+
+
+
+tag = "730",  frequency = 5
+Average number of words, ignoring <>'s (mean, median, mode) = 5.4, 7, 7
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">I am a friar of orders grey.</marc:subfield>
+<marc:subfield code="a">I am a friar of orders grey.</marc:subfield>
+<marc:subfield code="a">O dear! What can the matter be?</marc:subfield>
+<marc:subfield code="a">William and reform.</marc:subfield>
+<marc:subfield code="a">Gentlewoman (London, England)</marc:subfield>
+
+
+
+tag = "082",  frequency = 5
+Average number of words, ignoring <>'s (mean, median, mode) = 2, 2, 2
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">704.94364129</marc:subfield><marc:subfield code="2">23</marc:subfield>
+<marc:subfield code="a">704.9444212</marc:subfield><marc:subfield code="2">23</marc:subfield>
+<marc:subfield code="a">704.94364136</marc:subfield><marc:subfield code="2">23</marc:subfield>
+<marc:subfield code="a">704.9444212</marc:subfield><marc:subfield code="2">23</marc:subfield>
+<marc:subfield code="a">704.94442132</marc:subfield><marc:subfield code="2">23</marc:subfield>
+
+
+
+tag = "611",  frequency = 5
+Average number of words, ignoring <>'s (mean, median, mode) = 6.8, 6, 3
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Capture of Alexandria by the British (Virginia : 1814)</marc:subfield><marc:subfield code="2">fast</marc:subfield><marc:subfield code="0">(OCoLC)fst01352236</marc:subfield>
+<marc:subfield code="a">Great Exhibition</marc:subfield><marc:subfield code="d">(1851 :</marc:subfield><marc:subfield code="c">London, England)</marc:subfield><marc:subfield code="v">Caricatures and cartoons.</marc:subfield>
+<marc:subfield code="a">Bartholomew Fair.</marc:subfield><marc:subfield code="0">http://id.loc.gov/authorities/names/n96035928</marc:subfield>
+<marc:subfield code="a">War of 1812.</marc:subfield><marc:subfield code="2">fast</marc:subfield><marc:subfield code="0">(OCoLC)fst01199067</marc:subfield>
+<marc:subfield code="a">Great Exhibition</marc:subfield><marc:subfield code="d">(1851 :</marc:subfield><marc:subfield code="c">London, England)</marc:subfield>
+
+
+
+tag = "994",  frequency = 4
+Average number of words, ignoring <>'s (mean, median, mode) = 2, 2.0, 2
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">C0</marc:subfield><marc:subfield code="b">YUS</marc:subfield>
+<marc:subfield code="a">C0</marc:subfield><marc:subfield code="b">YUS</marc:subfield>
+<marc:subfield code="a">C0</marc:subfield><marc:subfield code="b">YUS</marc:subfield>
+<marc:subfield code="a">C0</marc:subfield><marc:subfield code="b">YUS</marc:subfield>
+
+
+
+tag = "351",  frequency = 4
+Average number of words, ignoring <>'s (mean, median, mode) = 41.5, 34.5, 34
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Organized into six series: I. Wilmarth Sheldon Lewis, 1895-1979. II. Annie Burr Lewis, 1903-1959. III. Wilmarth and Annie Burr Lewis, 1927-1958. IV. Family and Friends, 1859-1975. V. Places, 1860-1978. VI. Unsorted and Unidentified Images, 1900-1979.</marc:subfield>
+<marc:subfield code="a">Organized alphabetically by sitter in Hollinger boxes numbered 1-102, 102a, 103-111 with a separate sequence of slightly too large prints in Box 112 in a separate alphabetic sequence.  Larger format prints are cataloged individually.</marc:subfield>
+<marc:subfield code="a">Organized into themes and arranged alphabetically: I. Topographical views: England, Ireland, Scotland, Wales, Foreign.  II. Arms.  III. Battles. IV. Battles, Naval. V. Crimes and Criminals. VI. George III (&amp; Misc.) regalia. VII. Gilpin prints. VIII. Copies of Le Seur (Le Sueur) prints. IX. Maps. X Monuments. XI. Sartini prints. XII. Schools. XIII. Street signs. XIV. Theaters. XV. Theatrical costume. XVI. Title pages. XVII. Travel (Captain Cook's three voyages).</marc:subfield>
+<marc:subfield code="a">Organized by play title: I. Theatrical scenes, A-C.  II. Theatrical scenes, D-L.  III. Theatrical scenes, M-Z. Shakespeare A-W. Unidentified scenes. IV. Oversize Theatrical scenes, A-Z, IV. Oversize Theatrical scenes.</marc:subfield>
+
+
+
+tag = "656",  frequency = 4
+Average number of words, ignoring <>'s (mean, median, mode) = 3.75, 3.5, 2
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Antiquarians.</marc:subfield><marc:subfield code="2">lcsh</marc:subfield>
+<marc:subfield code="a">Women artists.</marc:subfield><marc:subfield code="2">lcsh</marc:subfield>
+<marc:subfield code="a">Architects</marc:subfield><marc:subfield code="x">United States</marc:subfield><marc:subfield code="y">20th century.</marc:subfield><marc:subfield code="2">lcsh</marc:subfield>
+<marc:subfield code="a">Admirals</marc:subfield><marc:subfield code="z">Great Britain.</marc:subfield><marc:subfield code="2">lcsh</marc:subfield>
+
+
+
+tag = "034",  frequency = 4
+Average number of words, ignoring <>'s (mean, median, mode) = 5, 6.0, 6
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">a</marc:subfield><marc:subfield code="d">W0000421</marc:subfield><marc:subfield code="e">W0000408</marc:subfield><marc:subfield code="f">N0513043</marc:subfield><marc:subfield code="g">N0513039</marc:subfield><marc:subfield code="2">bound</marc:subfield>
+<marc:subfield code="a">a</marc:subfield><marc:subfield code="b">50000</marc:subfield>
+<marc:subfield code="a">a</marc:subfield><marc:subfield code="d">W0000609</marc:subfield><marc:subfield code="e">W0000600</marc:subfield><marc:subfield code="f">N0513058</marc:subfield><marc:subfield code="g">N0513052</marc:subfield><marc:subfield code="2">bound</marc:subfield>
+<marc:subfield code="a">a</marc:subfield><marc:subfield code="d">W0000519</marc:subfield><marc:subfield code="e">W0000513</marc:subfield><marc:subfield code="f">N0513034</marc:subfield><marc:subfield code="g">N0513023</marc:subfield><marc:subfield code="2">bound</marc:subfield>
+
+
+
+tag = "255",  frequency = 4
+Average number of words, ignoring <>'s (mean, median, mode) = 5.5, 5.5, 8
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Scale ca. 1:6,000.</marc:subfield>
+<marc:subfield code="a">Scale not given</marc:subfield><marc:subfield code="c">W 0°06'09&quot;-W 0°06'00&quot;/N 51°30'58&quot;-N 51°30'52&quot;.</marc:subfield>
+<marc:subfield code="a">Scale [ca. 1:50,000].</marc:subfield>
+<marc:subfield code="a">Scale not given</marc:subfield><marc:subfield code="c">W 0°05'19&quot;-W 0°05'13&quot;/N 51°30'34&quot;-N 51°30'23&quot;.</marc:subfield>
+
+
+
+tag = "856",  frequency = 3
+Average number of words, ignoring <>'s (mean, median, mode) = 11.33, 13, 16
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="d">g3774n</marc:subfield><marc:subfield code="f">ar101300</marc:subfield><marc:subfield code="g">urn:hdl:loc.gmd/g3774n.ar101300</marc:subfield><marc:subfield code="u">http://hdl.loc.gov/loc.gmd/g3774n.ar101300</marc:subfield><marc:subfield code="2">http</marc:subfield>
+<marc:subfield code="3">View a digital version in the Beinecke Library's Digital Images Online database (765 N47 1777A)</marc:subfield><marc:subfield code="u">http://beinecke.library.yale.edu/dl_crosscollex/brbldl_getrec.asp?fld=img&amp;id=15674604</marc:subfield>
+<marc:subfield code="3">View a description and listing of collection contents in the finding aid</marc:subfield><marc:subfield code="u">http://hdl.handle.net/10079/fa/lwl.mss.022</marc:subfield>
+
+
+
+tag = "530",  frequency = 3
+Average number of words, ignoring <>'s (mean, median, mode) = 8.33, 6, 6
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Also available as a digital reproduction.</marc:subfield>
+<marc:subfield code="a">Available also through the Library of Congress Web site as a raster image.</marc:subfield>
+<marc:subfield code="a">Also available as a digital reproduction.</marc:subfield>
+
+
+
+tag = "544",  frequency = 3
+Average number of words, ignoring <>'s (mean, median, mode) = 15.33, 12, 25
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Rand's portrait of Wilmarth Sheldon Lewis painted in the same year is now in the National Portrait Gallery, Washington, D.C., per W.S. Lewis bequest, 1979.</marc:subfield>
+<marc:subfield code="d">Related material: Collection of Prints Illustrating Dramatic Works of the English Stage.</marc:subfield>
+<marc:subfield code="d">Related material: Collection of Portraits of Actors in Character.</marc:subfield>
+
+
+
+tag = "711",  frequency = 2
+Average number of words, ignoring <>'s (mean, median, mode) = 23, 23.0, 25
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="3">Folio 75  R558 783 (no. 108)</marc:subfield><marc:subfield code="i">Exhibited in:</marc:subfield><marc:subfield code="a">Collection Highlights: Prints, Drawings, and Illustrated Books</marc:subfield><marc:subfield code="d">(May-October 2010 :</marc:subfield><marc:subfield code="c">The Lewis Walpole Library, Farmington, CT.)</marc:subfield><marc:subfield code="5">CtY-LW</marc:subfield>
+<marc:subfield code="3">Folio A 2016 22</marc:subfield><marc:subfield code="i">Exhibited in:</marc:subfield><marc:subfield code="a">Pleasures and Pastimes</marc:subfield><marc:subfield code="c">(Yale Center for British Art,</marc:subfield><marc:subfield code="d">February 21, 1990-April 29, 1990)</marc:subfield><marc:subfield code="0">(ycba)644</marc:subfield><marc:subfield code="5">CtY-BA</marc:subfield>
+
+
+
+tag = "648",  frequency = 2
+Average number of words, ignoring <>'s (mean, median, mode) = 4, 4.0, 4
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">1800 - 1899</marc:subfield><marc:subfield code="2">fast</marc:subfield>
+<marc:subfield code="a">1812 - 1815</marc:subfield><marc:subfield code="2">fast</marc:subfield>
+
+
+
+tag = "019",  frequency = 2
+Average number of words, ignoring <>'s (mean, median, mode) = 1, 1.0, 1
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">51136423</marc:subfield>
+<marc:subfield code="a">423730414</marc:subfield>
+
+
+
+tag = "046",  frequency = 2
+Average number of words, ignoring <>'s (mean, median, mode) = 1, 1.0, 1
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">e-uk---</marc:subfield>
+<marc:subfield code="a">e-uk---</marc:subfield>
+
+
+
+tag = "927",  frequency = 2
+Average number of words, ignoring <>'s (mean, median, mode) = 1, 1.0, 1
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">rlin</marc:subfield>
+<marc:subfield code="a">rlin</marc:subfield>
+
+
+
+tag = "029",  frequency = 2
+Average number of words, ignoring <>'s (mean, median, mode) = 2, 2.0, 2
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">AU@</marc:subfield><marc:subfield code="b">000024233507</marc:subfield>
+<marc:subfield code="a">AU@</marc:subfield><marc:subfield code="b">000027539274</marc:subfield>
+
+
+
+tag = "540",  frequency = 2
+Average number of words, ignoring <>'s (mean, median, mode) = 5, 5.0, 5
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">No known restrictions on publication.</marc:subfield>
+<marc:subfield code="a">No known restrictions on publication.</marc:subfield>
+
+
+
+tag = "344",  frequency = 1
+Average number of words, ignoring <>'s (mean, median, mode) = 2, 2, 2
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="g">surround</marc:subfield><marc:subfield code="2">rda</marc:subfield>
+
+
+
+tag = "507",  frequency = 1
+Average number of words, ignoring <>'s (mean, median, mode) = 3, 3, 3
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Scale ca. 1:444,000.</marc:subfield>
+
+
+
+tag = "694",  frequency = 1
+Average number of words, ignoring <>'s (mean, median, mode) = 4, 4, 4
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Walpole, Horace,</marc:subfield><marc:subfield code="d">1717-1797</marc:subfield><marc:subfield code="x">Ownership.</marc:subfield>
+
+
+
+tag = "949",  frequency = 1
+Average number of words, ignoring <>'s (mean, median, mode) = 5, 5, 5
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">YUM</marc:subfield><marc:subfield code="x">DO NOT DELETE 949</marc:subfield>
+
+
+
+tag = "242",  frequency = 1
+Average number of words, ignoring <>'s (mean, median, mode) = 6, 6, 6
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">The committee of foreign affairs.</marc:subfield><marc:subfield code="y">eng</marc:subfield>
+
+
+
+tag = "111",  frequency = 1
+Average number of words, ignoring <>'s (mean, median, mode) = 8, 8, 8
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Stamp Act Congress</marc:subfield><marc:subfield code="d">(1765 :</marc:subfield><marc:subfield code="c">New York, N.Y.)</marc:subfield>
+
+
+
+tag = "051",  frequency = 1
+Average number of words, ignoring <>'s (mean, median, mode) = 8, 8, 8
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">PC 1 - 13207 (color print).</marc:subfield><marc:subfield code="c">Another impression.</marc:subfield>
+
+
+
+tag = "504",  frequency = 1
+Average number of words, ignoring <>'s (mean, median, mode) = 32, 32, 32
+
+Random sample of 20 examples...
+-------------------------------
+<marc:subfield code="a">Original drawing for a mezzotint published by Carington Bowles, 20 May 1782. See Catalogue of prints and drawings in the British Museum. Division I, political and personal satires, v. 5, no. 6158.</marc:subfield>
