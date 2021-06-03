@@ -1,4 +1,4 @@
-# multiple descriptions for same print
+# multiple descriptions different impressions of the same printed image
 
 This directory contains two files:
 
