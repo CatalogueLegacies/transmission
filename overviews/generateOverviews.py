@@ -1,4 +1,11 @@
-#!?!assuming fields are not split over lines
+# generateOverviews.py (previously analyseXML2.py)
+
+# generates an overview of the contents for each MARC 21 field found in the input file which is hardcoded as i
+#   - the input file is a dump of records comprising MARC 21 fields, formatted in XML, e.g. 'LWL_export.xml'
+#   - 'overviewsPart1.txt' gives for each field: frequency, average "word" length, and a sample of up to 20 examples
+#       - the fields are ordered by frequency
+#   - '/overviewsPart2/' contains a directory for each field which contains 8 ngram lists (1 <= n <= 8)
+
 
 import re
 import os
@@ -6,33 +13,26 @@ from collections import defaultdict
 from statistics import mean, median
 from random import shuffle
 
+i = open('LWL_export.xml', 'r')
 datafieldCount = defaultdict(int)
 datafieldContent = defaultdict(list)
 datafieldContentSplitSubfields = defaultdict(list)
-datafieldWordList = defaultdict(lambda: defaultdict(int))
-datafieldBigramList = defaultdict(lambda: defaultdict(int))
-datafieldTrigramList = defaultdict(lambda: defaultdict(int))
-datafield4gramList = defaultdict(lambda: defaultdict(int))
-datafield5gramList = defaultdict(lambda: defaultdict(int))
-datafield6gramList = defaultdict(lambda: defaultdict(int))
-datafield7gramList = defaultdict(lambda: defaultdict(int))
-datafield8gramList = defaultdict(lambda: defaultdict(int))
+datafieldWordList , datafieldBigramList , datafieldTrigramList , datafield4gramList , datafield5gramList , \
+    datafield6gramList , datafield7gramList , datafield8gramList = \
+    [defaultdict(lambda: defaultdict(int)) for x in range(8)]
 
-i = open('bib_walpole.xml', 'r')
 for line in i:
-    datafields = re.findall('\<marc:datafield tag=\"(.*?)\".*?\>(.*?)\<\/marc:datafield\>', line.strip())
+    datafields = re.findall('<marc:datafield tag=\"(.*?)\".*?>(.*?)</marc:datafield>', line.strip())
     for (tag, content) in datafields:
         datafieldCount[tag] += 1
         datafieldContent[tag].append(content)
 i.close()
 
-o = open('XML_analysis2.txt', 'w')
+o = open('overviewsPart1.txt', 'w')
 for t in sorted(datafieldCount.keys(), key=datafieldCount.get, reverse=True):
-#for t in ['655', '520']:
     o.write(f'\n\n\ntag = "{t}",  frequency = {datafieldCount[t]}\n')
-    wordCounts = list ( map (lambda x: len(re.sub('\<.*?\>', ' ', x).split()) , datafieldContent[t]) )
-    mode = max(set(wordCounts), key=wordCounts.count) #won't return top equal modes!
-                                                #??Python 3.8 for multimode, or scipy stats.mode, to handle >1 mode
+    wordCounts = list ( map ( lambda x: len(re.sub('<.*?>', ' ', x).split()) , datafieldContent[t]) )
+    mode = max(set(wordCounts), key=wordCounts.count) # won't return top equal modes; could use scipy stats.mode
     o.write(f"Average number of words, ignoring <>'s (mean, median, mode) = "
             f"{round(mean(wordCounts),2)}, {median(wordCounts)}, {mode}\n\n")
     o.write("Random sample of 20 examples...\n-------------------------------\n")
@@ -42,10 +42,11 @@ for t in sorted(datafieldCount.keys(), key=datafieldCount.get, reverse=True):
 
     print(f'doing n-grams for {t}')
     for c in datafieldContent[t]:
-        subparts = re.split('\<.*?\>', c) #to not run-over datafields
+        subparts = re.split('<.*?>', c)
         for sp in subparts:
             datafieldContentSplitSubfields[t].append(sp)
             words = sp.split()
+
             for w in words:
                 datafieldWordList[t][w] +=1
 
@@ -87,51 +88,18 @@ for t in sorted(datafieldCount.keys(), key=datafieldCount.get, reverse=True):
 o.close()
 
 for df in datafieldCount.keys():
-#for df in ['655', '520']:
-    if not os.path.exists(f'./allNgrams/{df}'):
-        os.makedirs(f'./allNgrams/{df}')
+    if not os.path.exists(f'./overviewsPart2/{df}'):
+        os.makedirs(f'./overviewsPart2/{df}')
 
-    o = open(f'./allNgrams/{df}/textSplitBySubfields_{df}.txt', 'w')
+    for s, d in zip(['wordlist' , 'bigramlist' , 'trigramlist' , '4gramlist' , '5gramlist' , '6gramlist' , '7gramlist'\
+            , '8gramlist'], [datafieldWordList , datafieldBigramList , datafieldTrigramList , datafield4gramList ,\
+            datafield5gramList , datafield6gramList , datafield7gramList , datafield8gramList]):
+        o = open(f'./overviewsPart2/{df}/{s}_{df}.txt', 'w')
+        for w in sorted(d[df].keys(), key=d[df].get, reverse=True):
+         o.write(f'{w}\t{d[df][w]}\n')
+        o.close()
+
+    o = open(f'./overviewsPart2/{df}/textSplitBySubfields_{df}.txt', 'w')
     for l in datafieldContentSplitSubfields[df]:
         o.write(f'{l}\n')
-    o.close()
-
-    o = open(f'./allNgrams/{df}/wordlist_{df}.txt' , 'w')
-    for w in sorted(datafieldWordList[df].keys(), key=datafieldWordList[df].get, reverse=True):
-        o.write(f'{w}\t{datafieldWordList[df][w]}\n')
-    o.close()
-
-    o = open(f'./allNgrams/{df}/bigramlist_{df}.txt' , 'w')
-    for b in sorted(datafieldBigramList[df].keys(), key=datafieldBigramList[df].get, reverse=True):
-        o.write(f'{b}\t{datafieldBigramList[df][b]}\n')
-    o.close()
-
-    o = open(f'./allNgrams/{df}/trigramlist_{df}.txt', 'w')
-    for b in sorted(datafieldTrigramList[df].keys(), key=datafieldTrigramList[df].get, reverse=True):
-        o.write(f'{b}\t{datafieldTrigramList[df][b]}\n')
-    o.close()
-
-    o = open(f'./allNgrams/{df}/4gramlist_{df}.txt', 'w')
-    for b in sorted(datafield4gramList[df].keys(), key=datafield4gramList[df].get, reverse=True):
-        o.write(f'{b}\t{datafield4gramList[df][b]}\n')
-    o.close()
-
-    o = open(f'./allNgrams/{df}/5gramlist_{df}.txt', 'w')
-    for b in sorted(datafield5gramList[df].keys(), key=datafield5gramList[df].get, reverse=True):
-        o.write(f'{b}\t{datafield5gramList[df][b]}\n')
-    o.close()
-
-    o = open(f'./allNgrams/{df}/6gramlist_{df}.txt', 'w')
-    for b in sorted(datafield6gramList[df].keys(), key=datafield6gramList[df].get, reverse=True):
-        o.write(f'{b}\t{datafield6gramList[df][b]}\n')
-    o.close()
-
-    o = open(f'./allNgrams/{df}/7gramlist_{df}.txt', 'w')
-    for b in sorted(datafield7gramList[df].keys(), key=datafield7gramList[df].get, reverse=True):
-        o.write(f'{b}\t{datafield7gramList[df][b]}\n')
-    o.close()
-
-    o = open(f'./allNgrams/{df}/8gramlist_{df}.txt', 'w')
-    for b in sorted(datafield8gramList[df].keys(), key=datafield8gramList[df].get, reverse=True):
-        o.write(f'{b}\t{datafield8gramList[df][b]}\n')
     o.close()
